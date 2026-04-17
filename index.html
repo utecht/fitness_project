@@ -103,11 +103,11 @@
     border: 1px solid var(--border);
   }
   .phase-seg {
-    flex: var(--w, 1);
+    flex: var(--w, 1) 1 140px;
     padding: 12px 14px;
     background: var(--panel);
     position: relative;
-    min-width: 0;
+    min-width: 140px;
   }
   .phase-seg.active { background: linear-gradient(180deg, rgba(124,196,255,0.18), rgba(124,196,255,0.06)); }
   .phase-seg .phase-name { font-weight: 600; font-size: 13px; }
@@ -385,7 +385,9 @@ function extractMetrics() {
   const body = extractTable(baseline, h => h.trim() === "Body");
   if (body?.rows.length) {
     const latest = body.rows[body.rows.length - 1];
-    out.push({ label: "Weight", big: latest["Weight"], sub: latest["Notes"] || "" });
+    const [primary, secondary] = (latest["Weight"] || "").split(/\s*\/\s*/);
+    const subParts = [secondary, latest["Notes"]].filter(Boolean);
+    out.push({ label: "Weight", big: primary || latest["Weight"], sub: subParts.join(" · ") });
   }
 
   const ftp = extractTable(baseline, h => h.startsWith("FTP History"));
