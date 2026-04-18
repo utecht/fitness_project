@@ -60,7 +60,7 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
 
 ## Week of 2026-04-13 (Half marathon taper, week 1/2)
 - **Volume:** [in progress]
-- **Key sessions:** Mon full rest. Tue/Wed/Thu runs as planned. Thu 4/16 tempo run 3.81 mi, miles 2&3 at 9:56 and 9:47/mi at 143/154 bpm — controlled, submaximal. Sat plan 8 mi easy (likely Seattle flat).
+- **Key sessions:** Mon full rest. Tue/Wed/Thu runs as planned. Thu 4/16 tempo run 3.81 mi, miles 2&3 at 9:56 and 9:47/mi at 143/154 bpm — controlled, submaximal. Sat 4/18 Green Lake flat 8-miler: 10:58/mi avg, HR 143 avg. Clean neg split (11:12/140 front → 10:32/149 back). Cardiac drift 2.4%, very aerobic. 8 days out from half.
 - **Body:** Feeling fresh coming out of Monday's full rest day. No niggles.
 - **Adjustments:** Considering Seattle for Saturday long run to practice flat pacing.
 - **Next week focus:** Final taper into Whidbey Half on Sun 4/26. Target: 2:10 with pace group.
