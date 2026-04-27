@@ -64,3 +64,10 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
 - **Body:** Feeling fresh coming out of Monday's full rest day. No niggles.
 - **Adjustments:** Considering Seattle for Saturday long run to practice flat pacing.
 - **Next week focus:** Final taper into Whidbey Half on Sun 4/26. Target: 2:10 with pace group.
+
+## Week of 2026-04-20 (Half marathon taper, week 2 → race)
+- **Volume:** light taper week, race Sun
+- **Key sessions:** Mon full rest. Tue 4/21 — easy 4.44 mi + 4 strides / 11:30 avg / HR 136 avg, max 160 (hill) / 387 ft / 4 strides with HR 154–156 peaks, 3 clean + 1 GPS-clipped under canopy / Pa:Hr drift +3.4%, clean taper day. Wednesday 4/22 - easy 18.69 mi indoor z2 zwift ride. Sun 4/26 Whidbey Half Marathon — **2:05:56 official**, 4:04 ahead of 2:10 target. 9:34/mi avg, 154/178 HR, 958 ft elevation. Negative split (9:26 → 9:23 by halves), drift only +3.3%. HR distribution 72% Z3 / 11% Z4 — clean tempo execution. Mile 13 finishing kick: 8:35/mi at 174 max. Mild right metatarsal pain at mile 11 (after the steepest climb block) didn't affect pace; final 3 miles all faster than race average.
+- **Body:** No bonk, fuel held, no cramping. Foot pain noticeable but non-limiting.
+- **Adjustments:** None — race day to plan, slightly faster.
+- **Next week focus:** Easy recovery, transition to STP build week 1.
