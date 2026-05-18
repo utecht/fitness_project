@@ -116,4 +116,25 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
   - **Cadence intervention validated:** Thu indoor knee pain at 74 rpm → Sat outdoor naturally varied cadence → no knee pain. Strong data for the fitter.
 - **Next week focus:** Tue **3×10 @ 200–210W** with longer warmup and staged-drop protocol if needed; Sat genuinely **hold at 60–70 mi** with full gel + sodium load (no more overshoot pre-fit); document tricep/foot/knee/saddle findings for fitter; consider FTP ramp retest in ~2 weeks if next Tue's SST also stalls early.
 
+## Week of 2026-05-11 (STP Build, week 3/11)
+- **Volume:** bike ~2.4h moving / ~39.8 mi (1 Zwift SST + 1 outdoor hard), run 1x (Fri 3.00 mi), strength 0, curling 1x (Wed Supper League). Training-load week ~170 TSS — by far the lightest week of the build (wk1 ~538, wk2 high). Effectively an unplanned low/absorb week.
+- **Key sessions:**
+  - **Mon 5/11:** full rest (planned).
+  - **Tue 5/12:** planned 3×10 SST **skipped** — busy work week + town errand ran out the clock. Became 2nd full rest day.
+  - **Wed 5/13:** Zwift "3×10 SST" (pushed from Tue), 1:10 / 19.79 mi / 144W avg (NP 160, IF 0.70, TSS 57) / HR 135 avg, 159 max / **83 rpm**. Intended 3×10 @ 200–210W; held 195W for I1 (brief 209W max) before HR neared LTHR, then **staged 6% drop to 184W sustained across I2/I3** (81% FTP, HR 151–152 both intervals, no further drift). 30 min total tempo-zone work, clean cardiac profile. Drop magnitude 6% vs prior weeks' 17–20% — **staged-drop protocol successful**. Cadence pushed deliberately to 86 rpm in I2/I3 — **no knee pain (3rd consecutive data point confirming cadence hypothesis)**. Best of the three SST attempts despite landing as tempo not sweet spot.
+  - **Thu 5/14:** planned Z2 endurance ride **skipped** (life/work).
+  - **Fri 5/15:** Easy 3 mi (prescribed easy, ran steady/tempo), 30:24 / 3.00 mi / 10:07/mi / HR 147 avg, 170 max / 168 spm / +315 ft. Flat pace (mi 1 9:56 → mi 3 10:12) with HR climbing 138→149→155 — **only 40% in easy HR zone, 33% Z4/Z5**. Third consecutive "easy" run drifting faster/hotter (5/6 10:28, 5/10 10:20, 5/15 10:07). Decoupling +9.5%, expected for short hilly tempo-HR run.
+  - **Sat 5/16:** Outdoor compressed hard effort — **long ride cut by Pride Spiel kitchen volunteering ballooning unexpectedly**. 75 min / 20.05 mi / +1,063 ft / HR 143 avg, 168 max. No power/cadence (outdoor sensor unpaired, as 5/9). Deliberate hard-effort test on the road bike: **48% HR in Z4+Z5**, ~21 min ≥150 bpm, ~11 min ≥LTHR. **Effort-matched decoupling −8.8%** (faster at lower HR in back third — strong durability, no fade; clean contrast to 5/9 bonk's +11.7%). Climbing surges in final 15 min drove peak HRs (terrain, not fatigue). Fueling non-diagnostic at 75 min.
+  - **Sun 5/17:** rest + Pride Spiel kitchen (planned).
+- **Body:**
+  - **Knee:** no pain on Wed SST at deliberately elevated 86 rpm. Cadence hypothesis now has 3 confirming data points (Thu 5/7 indoor 74 rpm → pain; Sat 5/9 outdoor varied → none; Wed 5/13 indoor 86 rpm → none). Reclassified from hypothesis to working conclusion — **top-3 fitter item** (saddle setback / cleat position likely; indoor power at low self-selected cadence the trigger).
+  - **Easy-run pacing drift:** systematic, three runs running. Pace settles ~10:00–10:12 (feels easy) while HR sits steady/tempo. Lagging-average-pace problem resurfacing.
+  - No metatarsal complaints on any session. No bonk this week (no session long enough to test it).
+  - Pride Spiel kitchen Sat+Sun: significant standing/leg-fatigue load both days (non-training), Sat much heavier than anticipated.
+- **Adjustments:**
+  - **Tue SST → Wed** (work compression); **Thu Z2 lost** entirely (life); **Sat long ride 55–65 mi → 20-mi hard effort** (kitchen commitment ballooned). First week of the build with **no long ride**.
+  - Pattern flag: **3rd straight week of compressed mid-week + Saturday absorbing/replacing the week's key session** (wk1 80mi overshoot, wk2 81mi overshoot+bonk, wk3 long ride replaced by hard short). Lumpy big-or-nothing structure. Acceptable as a one-off in a pre-fit hold week with a confirmed scheduling reason; **not acceptable as steady state** — post-fit weeks 4–6 need clean Tue quality + Thu endurance + progressive Saturday long ride.
+  - **Action carried forward:** next easy run uses **145 bpm HR-cap alert, not pace target**; easy runs start near-embarrassingly slow.
+  - **FTP retest still indicated** week of 5/19 (post-fit, pre-next-SST) — three SST stalls in a row, but all had a confounding big-Saturday 3–4 days prior, so residual-fatigue confound unresolved. Retest settles it.
+- **Next week focus:** Bike fit appointment (priorities: asymmetric right-arm bar loading @ ~mile 50, saddle width/position + weight-forward technique, low-cadence indoor knee tracking, foot). FTP ramp retest after fit. Re-establish clean Tue/Thu/Sat structure. **Dedicated macro re-plan session flagged** — rebuild weeks 4–6 around the fitted bike; the June 28 one-vs-two-day decision gate hinges on a 120+ mi fueled ride not yet built toward.
 
