@@ -5,6 +5,7 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
 ---
 
 ## Template
+
 ```
 ## Week of YYYY-MM-DD (phase, week N/M)
 - **Volume:** bike Xh / Y mi, run Xh / Y mi, strength N sessions
@@ -17,6 +18,7 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
 ---
 
 ## Week of 2026-03-02 (Return to running, week 1)
+
 - **Volume:** bike ~4h / ~60 mi (Zwift races + spins), run 3x (3.17 mi + 3.28 mi + 3.07 mi = ~9.5 mi), curling 2x
 - **Key sessions:** First run back 3/2 — 3.17 mi at 9:50/mi, no walk breaks despite planning run/walk. No arch pain. Monday Zwift race. Saturday outdoor ride shortened due to evening commitment.
 - **Body:** Fresh legs returning to running after 2+ week layoff. Arches fine. VO₂ max bumped to 49.0.
@@ -24,6 +26,7 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
 - **Next week focus:** Continue 3x/week running, push into Zwift race week 3.
 
 ## Week of 2026-03-09 (Run base building, week 2)
+
 - **Volume:** bike ~4h (race + intervals + long outdoor), run 4x including tempo test (~12 mi total), curling 2x
 - **Key sessions:** Mon Zwift race 30.9km at 181W avg / 191W NP, 149 bpm avg. Fri 3/13 tempo test run 3.74 mi / 36 min with brief HR spike to Z5 at start, settled at 9:00-9:30/mi. Sat 3/14 outdoor 50-miler with 3,274 ft climb.
 - **Body:** Strong week. Running is clicking. Noted low cycling cadence (76 rpm) in race — plan to push 85-90 next time.
@@ -31,6 +34,7 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
 - **Next week focus:** Taper into Diamond Dash 5K on 3/21.
 
 ## Week of 2026-03-16 (5K taper + race)
+
 - **Volume:** bike ~2h, run 2x easy + race, curling 1x
 - **Key sessions:** Sunday 3/21 Diamond Dash 5K official time 26:30 (8:31/mi). Crowd-limited first 8 min stuck behind walkers from earlier wave. Finishing HR to 184 bpm, observed max 186. Avg 162 bpm.
 - **Body:** Fresh for race. Post-race illness started later that day.
@@ -38,6 +42,7 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
 - **Next week focus:** Recover from illness, rebuild.
 
 ## Week of 2026-03-23 (Illness recovery)
+
 - **Volume:** bike ~4h (mostly short Zwift once recovered), run 1x (3/26), curling 1x
 - **Key sessions:** Thu 3/26 first run back post-illness — 6.73 mi / 77 min. Tolerated well. Fri 3/27 longer Zwift ride (23.4 mi / 2:13).
 - **Body:** Sick Sun-Mon-Tue (3/22-3/24). RHR elevated to 63-66. Back to normal 56-58 by weekend.
@@ -45,6 +50,7 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
 - **Next week focus:** Resume normal training, FTP test on Wednesday.
 
 ## Week of 2026-03-30 (Base rebuild + FTP test)
+
 - **Volume:** bike ~9h / ~110 mi (incl. Mon 55-mi outdoor + FTP test + Sat 48-mi flat ride), run 3x (Tue, Thu, Fri ~11 mi total)
 - **Key sessions:** Mon 3/30 outdoor ride 54.9 mi / 3,947 ft / 4:25 — new distance PR for year, excellent HR pacing (125 bpm avg, negative-split second half). Wed 4/1 FTP test: **228W** (was ~227). Sun 4/5 Easter 48-mi flat ride, bonked at 3hr mark due to no breakfast + only 2 gels.
 - **Body:** Legs handled the big week well. Saddle pain + right tricep soreness flagged on Sunday ride — likely fit issue.
@@ -52,6 +58,7 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
 - **Next week focus:** Address bike fit. Keep running consistency.
 
 ## Week of 2026-04-06 (Reduced volume week, April Spiel prep)
+
 - **Volume:** bike 1x Zwift threshold (16.7 mi), run 4x (Mon 3.71 + Tue 3.71 + Thu 9.36 + Fri 3.73 ≈ 20.5 mi), curling 4x (April Spiel), softball 1x (2hr opener)
 - **Key sessions:** Thu 4/9 intentional "half marathon viability test" — 9.36 mi at ~11:00/mi, felt strong throughout. Decision made to register for Whidbey Half on 4/26. Wed Zwift threshold intervals first workout with new 228 FTP zones.
 - **Body:** Spiel weekend plus softball Sunday = pretty wiped by Monday 4/13. Arches holding up through increasing volume.
@@ -59,6 +66,7 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
 - **Next week focus:** Recovery + quality for half marathon on 4/26.
 
 ## Week of 2026-04-13 (Half marathon taper, week 1/2)
+
 - **Volume:** [in progress]
 - **Key sessions:** Mon full rest. Tue/Wed/Thu runs as planned. Thu 4/16 tempo run 3.81 mi, miles 2&3 at 9:56 and 9:47/mi at 143/154 bpm — controlled, submaximal. Sat 4/18 Green Lake flat 8-miler: 10:58/mi avg, HR 143 avg. Clean neg split (11:12/140 front → 10:32/149 back). Cardiac drift 2.4%, very aerobic. 8 days out from half.
 - **Body:** Feeling fresh coming out of Monday's full rest day. No niggles.
@@ -66,6 +74,7 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
 - **Next week focus:** Final taper into Whidbey Half on Sun 4/26. Target: 2:10 with pace group.
 
 ## Week of 2026-04-20 (Half marathon taper, week 2 → race)
+
 - **Volume:** light taper week, race Sun
 - **Key sessions:** Mon full rest. Tue 4/21 — easy 4.44 mi + 4 strides / 11:30 avg / HR 136 avg, max 160 (hill) / 387 ft / 4 strides with HR 154–156 peaks, 3 clean + 1 GPS-clipped under canopy / Pa:Hr drift +3.4%, clean taper day. Wednesday 4/22 - easy 18.69 mi indoor z2 zwift ride. Sun 4/26 Whidbey Half Marathon — **2:05:56 official**, 4:04 ahead of 2:10 target. 9:34/mi avg, 154/178 HR, 958 ft elevation. Negative split (9:26 → 9:23 by halves), drift only +3.3%. HR distribution 72% Z3 / 11% Z4 — clean tempo execution. Mile 13 finishing kick: 8:35/mi at 174 max. Mild right metatarsal pain at mile 11 (after the steepest climb block) didn't affect pace; final 3 miles all faster than race average.
 - **Body:** No bonk, fuel held, no cramping. Foot pain noticeable but non-limiting.
@@ -93,6 +102,7 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
 - **Next week focus:** Tue sweet spot retry with longer warmup ramp and staged-drop protocol if effort feels off; restore running 2x/week easy (~15 mpw equivalent); Sat long ride 60–75 mi with deliberate bar-position rotation and fueling-protocol documentation; full rest Mon after Sun softball.
 
 ## Week of 2026-05-04 (STP Build, week 2/11)
+
 - **Volume:** bike ~8.6h moving / ~136.5 mi (1 SST + 1 Z2 + 1 outdoor long), run 2x (Wed 3.17 + Sun 4.09 = ~7.3 mi), strength 1 session (Sun upper skipped).
 - **Key sessions:**
   - **Tue 5/5:** Zwift SST(Med), ERG, 1:21 / 26.2 mi / 149W avg (NP 165, IF 0.72, TSS 70.6) / HR 130 avg, 156 max / 76 rpm. Intended 2×20 @ 200–213W (88–94% FTP); held 205–215W for 10 min of Interval 1 before HR pinned at 154–156 (LTHR area) and stepped down. Drop was 17% in one move to 170W (75% FTP) instead of staged 5% — same over-correction pattern as 4/30. Interval 2 ran 180W tempo with successful late ramp-back to 185W and a final-minute 215W push. Decoupling −0.19% on Interval 2. Suspected residual fatigue from 5/2 + sweet-spot specificity gap rather than over-tuned FTP; no retest yet — watch next Tue's session.
@@ -117,6 +127,7 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
 - **Next week focus:** Tue **3×10 @ 200–210W** with longer warmup and staged-drop protocol if needed; Sat genuinely **hold at 60–70 mi** with full gel + sodium load (no more overshoot pre-fit); document tricep/foot/knee/saddle findings for fitter; consider FTP ramp retest in ~2 weeks if next Tue's SST also stalls early.
 
 ## Week of 2026-05-11 (STP Build, week 3/11)
+
 - **Volume:** bike ~2.4h moving / ~39.8 mi (1 Zwift SST + 1 outdoor hard), run 1x (Fri 3.00 mi), strength 0, curling 1x (Wed Supper League). Training-load week ~170 TSS — by far the lightest week of the build (wk1 ~538, wk2 high). Effectively an unplanned low/absorb week.
 - **Key sessions:**
   - **Mon 5/11:** full rest (planned).
@@ -139,15 +150,16 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
 - **Next week focus:** Bike fit appointment (priorities: asymmetric right-arm bar loading @ ~mile 50, saddle width/position + weight-forward technique, low-cadence indoor knee tracking, foot). FTP ramp retest after fit. Re-establish clean Tue/Thu/Sat structure. **Dedicated macro re-plan session flagged** — rebuild weeks 4–6 around the fitted bike; the June 28 one-vs-two-day decision gate hinges on a 120+ mi fueled ride not yet built toward.
 
 ## Week of 2026-05-18 (STP Build, week 4/11)
-- **Volume:** bike ~6.8h moving / ~103 mi (1 Zwift Z2 + 3 outdoor), run 2x (Mon 5.02 + Wed 4.19 = ~9.2 mi), strength 0, curling 1x (Wed Supper League — Thu league skipped for bike fit + ride). Training-load week ~400+ TSS — back to substantial volume after wk3's compressed ~170. First clean structural week of the build (Tue/Wed/Thu/Fri/Sat all hit).
+
+- **Volume:** bike ~7.2h moving / ~108 mi (1 Zwift Z2 + 4 outdoor), run 2x (Mon 5.02 + Wed 4.19 = ~9.2 mi), strength 0, curling 1x (Wed Supper League — Thu league skipped for bike fit + ride). Training-load week ~420+ TSS — back to substantial volume after wk3's compressed ~170. First fully structural week of the build (every day hit except Mon rest).
 - **Key sessions:**
   - **Mon 5/18:** HR-capped easy run + 4 strides, 50 min / 5.02 mi / 10:48/mi main / HR 136 avg, 158 max / 163 spm / +492 ft. **First HR-cap-managed easy run — clean success: 79% in easy HR zone (125–145) vs Fri 5/15's 40%.** Opened mile 1 at 128 bpm (prior 3 runs opened 138+), backed pace to 11:16 on mile-3 climb to defend HR ceiling. Decoupling +8.0%, normal for hilly easy effort. 4 strides after, HR to 163, neuromuscular/clean. **Method change validated: easy-run drift was a monitoring problem, not fitness. HR cap continues indefinitely.**
   - **Tue 5/19:** Zwift Z2 endurance, cadence focus, 90 min / 23.75 mi / 153W avg (NP 155, IF 0.68, TSS 70, VI 1.02) / HR 142 avg, 158 max / **91 rpm avg, 97% ≥85 rpm, 69% ≥90**. Power textbook Z2 (64.5%) but HR ran tempo (79% HR-Z3+Z4) — cadence-retraining metabolic cost + 1,693 ft virtual climbing pulling power to Z3 on climbs. Decoupling −0.66% (aerobically rock-stable, no fade — HR cost was motor-pattern, not overreaching). **No knee pain at 91 rpm — 4th data point, cadence→knee dose-response established (74rpm→pain, ≥85rpm→none).** 90 rpm still feels fast to rider; will normalize with adaptation.
   - **Wed 5/20:** HR-capped easy run (145 alarm), 43 min / 4.19 mi (3 min warmup + 40 min effort, last ~10 min of file is noise — watch left running). Effort portion: 10:07/mi / HR 139 avg, 158 max / 166 spm / +358 ft / **RPE 4/10**. 77.5% Z2-easy HR, 19.5% Z3, 1.9% Z4 (one terrain-driven hill spike). **Second explicit HR-cap easy run; same protocol as Mon — 41 sec/mi faster at only 3 bpm higher HR.** HR locked 136–142 across all 8 of the 5-min effort buckets regardless of pace/terrain. Decoupling +6.2% pace-slows-to-defend-HR direction (correct). **Easy-run method change holding cleanly; preliminary aerobic-fitness signal of dropping pace at fixed HR — needs more data points to confirm trend.**
   - **Thu 5/21:** **BIKE FIT AM at Gregg's Cycle** (Jono Rodgers). [details under Body]. Same-day post-fit shakeout ride: 56 min / 16.21 mi / +23 ft (flat) / HR 141 avg, 159 max / 18.0 mph. **Deliberate progressive load test** on flat terrain to feel new muscle recruitment from cleat changes — pace and HR built across 3 × 5-mi laps (17.2 → 17.8 → 18.9 mph), 38.7% ≥145, 17.9% ≥LTHR. **Decoupling −0.81% — new position tolerated 25+ min of threshold load with no positional fatigue or HR anomalies.** No subjective difference felt at 56 min (expected — symptoms emerge at duration).
   - **Fri 5/22:** Outdoor Z2 (substituted for Zwift Z2 — time constraint), 61 min / 14.56 mi / +768 ft / HR 127 avg, 161 max / 14.4 mph. **84.2% Z1+Z2 HR, 2.8% ≥150**. Most HR elevation in one 10-min climbing block (mins 45–55, +343 ft, gear-limited at 6.7 mph) — terrain, not pacing failure. Decoupling +9.4% terrain-biased (front-half descent / back-half climb route). Outdoor Z2 ran 15 bpm cooler than Tue indoor Z2 at comparable power intent — indoor/outdoor HR calibration baseline.
-  - **Sat 5/23:** **Long ride, Whidbey — FIRST DURATION TEST OF POST-FIT POSITION.** 48.32 mi / 3:21 moving / 3:58 elapsed / +3,255 ft / HR 138 avg, 168 max / 14.4 mph moving. HR ran hot for endurance intent: 52% Z1+Z2, 33% ≥145, 18% ≥LTHR (~37 min above LTHR). **FIT VERDICT: 2 of 3 right-side symptoms RESOLVED — no knee pain, no foot numbness across 3+ hours.** Right arm/tricep pain still present at ~hr 3 BUT **confounded — spent 90% of ride on the hoods (failed prescribed bar rotation, subconsciously stuck to new hood angle)**. Decoupling +19.4% with major confounders: hour 1 net −335 ft, hour 4 +314 ft climbing, 15 mi mid-ride at lost cyclist's pace, rental saddle discomfort. **Energy felt fine, no bonk signature, could have continued — opposite of 5/9.** **Fueling: 3 × 101g gels + convenience stop (pie/coke/gummies/Snickers/fig bars) = ~551g carbs / ~164 g/hr / no GI issues — gut tolerance ceiling well above 100 g/hr.** Sodium under target (1 tab) — fine for cool overcast, conditions-dependent call. **Prescribed Phenom 143 saddle not working — saddle pain higher than normal, will demo alternatives.**
-  - **Sun 5/24:** Rest (planned).
+  - **Sat 5/23:** **Long ride, Whidbey — FIRST DURATION TEST OF POST-FIT POSITION.** 48.32 mi / 3:21 moving / 3:58 elapsed / +3,255 ft / HR 138 avg, 168 max / 14.4 mph moving. HR ran hot for endurance intent: 52% Z1+Z2, 33% ≥145, 18% ≥LTHR (~37 min above LTHR). **FIT VERDICT: 2 of 3 right-side symptoms RESOLVED — no knee pain, no foot numbness across 3+ hours.** Right arm/tricep pain still present at ~hr 3 BUT **confounded — spent 90% of ride on the hoods (failed prescribed bar rotation, subconsciously stuck to new hood angle)**. Decoupling +19.4% with major confounders: hour 1 net −335 ft, hour 4 +314 ft climbing, 15 mi mid-ride at lost cyclist's pace, rental saddle discomfort. **Energy felt fine, no bonk signature, could have continued — opposite of 5/9.** **Fueling: 3 × 101g gels + convenience stop (pie/coke/gummies/Snickers/fig bars) = ~551g carbs / ~164 g/hr / no GI issues — gut tolerance ceiling well above 100 g/hr.** Sodium under target (1 tab) — fine for cool overcast, conditions-dependent call. **Prescribed Phenom 143 saddle not working — saddle pain higher than normal.**
+  - **Sun 5/24:** Short saddle-test ride after AM saddle swap, 23 min / 5.76 mi / +400 ft / HR 142 avg, 162 max / 14.9 mph. **Too short to evaluate saddle meaningfully — saddle pain is duration-emergent and 23 min loads sit bones below threshold for any saddle to declare itself.** No immediate hotspots / numbness / pinching — passes the "is it immediately wrong" binary. Intent was just to get on the bike. Sun run cancelled (full-day social commitment).
 - **Body:**
   - **BIKE FIT (Thu 5/21 AM, Gregg's Cycle, Jono Rodgers).** Substantial intervention, more than perceived as "minimal":
     - Saddle height: 701 → 713 mm (**+12mm up**)
@@ -156,10 +168,10 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
     - Drop: −28 → −17 mm (**bars +11mm up, less drop**)
     - Knee angle L/R at BDC: 35°/37° → 31°/32° (more extension, asymmetry halved)
     - **Cleats: significant rearward shift (toward heel) + rotated to match neutral foot turn**
-    - New saddle: Specialized Phenom 143mm (was 135mm, also 20mm shorter front-to-back) — **not working, replacement pending**
-    - Stem unchanged at 100mm/+7° — fitter explicitly flagged "shorter stem if shoulder pain/fatigue persists"
+    - New saddle initially prescribed: Specialized Phenom 143mm (20mm shorter front-to-back than previous) — **not working; swapped Sun 5/24 to alternative, evaluation pending proper duration test (60+ min endurance ride needed)**
+    - Stem unchanged at 100mm/+7° — fitter explicitly flagged "shorter stem if shoulder/arm fatigue persists"
   - **STRUCTURAL FINDING — Leg-Length Discrepancy (LLD):** Right tibia longer, right knee higher, right ankle lower. **This is the anatomical explanation for the entire right-sided symptom cluster documented across this build.** Fitter addressed via cleat rotation rather than wedging/shimming — judged mild enough for that. **If right-side symptoms recur at higher mileage, next-level intervention is heel wedge / cleat shim.**
-  - **Sit-bone width: 112mm.** Saddle width formula: 112 + ~30 = 143mm, matches prescribed Phenom width. Saddle problem is shape/contour, not width — alternatives in same width: Specialized Power, Bridge, Romin, or non-Spec demos at Gregg's.
+  - **Sit-bone width: 112mm.** Saddle width formula: 112 + ~30 = 143mm. Saddle problem is shape/contour, not width.
   - **Self-diagnostic from fitter:** quad overload → saddle up; excessive hip rocking → saddle down. Saturday produced neither — **saddle height 713mm is dialed**.
   - **Cadence-knee relationship now mechanistically explained:** rearward cleat + matched rotation addresses Q-angle/tibial torsion misalignment. At low cadence, longer contact time per stroke accumulates rotational load → pain. At high cadence, brief contact time per revolution lets rider ride through it. Cadence was the modulator, not the cause.
   - **Hand-position protocol (fitter):** rotate hands ~50% inward toward centerline on hoods.
@@ -168,7 +180,7 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
   - **Bike fit completed** (priority action since wk1 of build — pegged for "first 2 weeks of STP build" in macro plan, finally landed in week 4, slipped ~2 weeks). Net positive given the structural LLD finding and 2/3 symptom resolution first long ride.
   - **Thu Zwift Z2 → Fri outdoor Z2** (time constraint Thu — fit + ride consumed day).
   - **Saturday bar rotation NOT executed** despite explicit pre-ride plan — confounds the arm-pain finding. Cleanest next experiment: long ride WITH proper rotation + +50% hand rotation + new saddle, **no other variables changed**. Keep stem at 100mm until rotation experiment is run; otherwise can't isolate the variable.
+  - **NEW PATTERN — Perceived-easy outdoor cycling running hot.** Three data points this week of outdoor rides labeled "shakeout," "long endurance," or "test" running threshold-zone HR (Thu 38.7%≥145; Sat HR 138 vs 5/2's 127 on comparable terrain; Sun 52%≥145 / 16.6% Z5). Only Fri's explicit-Z2-intent ride stayed in zone (84% Z1+Z2). Same direction as the pre-5/18 easy-run pace drift; same likely solution — **explicit HR target on every outdoor ride regardless of label**, not just rides labeled "easy."
   - **Watch for new muscle fatigue patterns** over next 2–3 weeks: rearward cleats recruit more quad/glute, less calf/soleus. Mild DOMS in newly-loaded muscles is adaptation, not a fit problem. Should settle in 4–6 rides at duration.
-  - **Saturday outdoor pacing ran hot** (HR 138 vs 5/2's 127 on comparable terrain) — same "perceived easy that ran hot" pattern as pre-HR-cap easy runs. STP-target pacing closer to 5/2 profile than 5/23.
   - **Strength is now a 4-week recurring gap** (wk1 0, wk2 1, wk3 0, wk4 0). Needs to be restored or formally dropped from the plan — current state is silent skip.
-- **Next week focus:** Macro re-plan session (post-fit, wk5–6 structure rebuild). Saddle demo + selection. Next long ride isolates arm-pain variable (rotation + hand position + new saddle, stem unchanged). FTP retest now scheduleable (post-fit). Strength: restart or formally drop.
+- **Next week focus:** Macro re-plan session (post-fit, wk5–6 structure rebuild). **First proper duration test of new saddle: 60–90 min endurance ride at HR-cap 140**, mostly seated, rolling terrain — minimum dose to detect whether saddle works for STP-length efforts. Next long ride isolates arm-pain variable (rotation + hand position + new saddle, stem unchanged). FTP retest now scheduleable (post-fit). Strength: restart or formally drop. **Apply HR target discipline to all outdoor rides, not just labeled-easy ones.**
