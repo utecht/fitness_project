@@ -73,20 +73,9 @@ Reference position from Gregg's Cycle fit, 5/21/26. Frame: Raleigh Revino 3.0, s
 |---|---|---|---|---|
 | ~2026-01 | 227 | 2.76 | Zwift ramp or 20-min | Exact date unconfirmed |
 | 2026-04-01 | 228 | 2.77 | Zwift ramp test | Post-illness |
+| 2026-06-12 | 215 | 2.63 | Outdoor effort estimate | Downgraded after failed threshold efforts |
 
 **Current FTP status:** 228W setting has stalled three consecutive sweet-spot attempts (4/30, 5/5, 5/13), but each was 3–4 days after a major Saturday ride — residual fatigue confound unresolved. Retest indicated, scheduleable post-fit (target: week of 5/25 after 1–2 settle-in rides on new position).
-
-### Power Zones (Coggan 7-zone, FTP 228W)
-
-| Zone | Name | % FTP | Watts |
-|---|---|---|---|
-| Z1 | Active Recovery | <55% | <125 |
-| Z2 | Endurance | 56–75% | 128–171 |
-| Z3 | Tempo | 76–90% | 173–205 |
-| Z4 | Threshold | 91–105% | 207–239 |
-| Z5 | VO2max | 106–120% | 242–274 |
-| Z6 | Anaerobic | 121–150% | 276–342 |
-| Z7 | Neuromuscular | >150% | >342 |
 
 ### Cycling HR Zones (Wahoo, established 5/2/26)
 
