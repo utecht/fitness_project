@@ -309,3 +309,40 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
   - **Strength restored 2 weeks running** — keep the Tue upper/core slot; loads recorded this week.
 
 - **Next week focus (week 10):** **Knee gates everything.** Before any ride: confirm left knee pain-free at rest, check/retighten the left cleat, run an easy short spin on the OLD bib to isolate the bib variable. Only if clean → the **confirmation ride (lean 6/30) is the one clean sodium + Tailwind test:** flat, full hourly sodium 700–1,000 mg, 2-scoop Tailwind + water + real food, full-strength gel + chase early, dedicated hydration bottle, target single-digit decoupling. **Do NOT ride it on a painful knee** — invalidates the read and risks STP itself (16 days out); fitter/physio if not clearly resolved. Softball Sun added arm/back fatigue (legs fine) → lean **6/30** to bank a recovery day. **One-vs-two-day decision** follows the ride + full macro check-in; final commit July 6 (gear-truck drop Jul 10). Strength 1x upper/core (single-arm DB OHP). Confirm Wolf Tooth RoadLink for the 11-32.
+
+## Week of 2026-06-29 (STP Build, week 10/11 — knee-disrupted taper)
+
+- **Volume:** bike ~2h / ~25 mi (Wed knee-test spins + Sun ride), run 0, strength 0. Forced rest/taper — the planned confirmation/sodium ride never happened; the left knee gated the week.
+- **Key sessions:**
+  - **Sun 6/28:** softball playoffs (3 games back-to-back / 4.5h) — heavy arm/back load, legs fine.
+  - **Mon 6/29 – Tue 6/30:** full rest, still very sore (softball + knee).
+  - **Wed 7/1:** short knee-test rides — **both new AND old bib produced the same sharp left-knee pain within minutes → bib/chamois ruled out.** Sharp under pedaling load only; pain-free at rest/walking.
+  - **Thu 7/2 – Sat 7/4:** rest. Attempted to book sports PT; **no availability before STP.**
+  - **Sun 7/5:** "how does it feel" ride — intended easy, ran hard in practice: 21.3 mi / 1:27 / +1,158 ft / 127W avg, 188 NP, IF 0.875, TSS 90 / HR 144 avg, 180 max / 84 rpm / 68°F / decoupling +5.9% / **51.7% HR at Z4+**. Knee present after hard efforts/climbs but manageable. Fitness intact (clean decoupling on a hard hilly ride) — knee the only limiter. **Small Tailwind test: no acute GI issue** (small dose, not a volume validation).
+- **Body:** Left knee the headline (see consolidated note). ~9 days off the bike pre-STP; knee did not fully clear but settled to "manageable."
+- **Adjustments:** Confirmation/sodium ride abandoned (knee). One-vs-two-day left to race-morning feel; leaned one-day after 7/5 went quiet enough, with two-day/bail rules set as backstop.
+- **Next week focus:** STP taper; final knee read; ride one-day if knee stays manageable.
+
+## Week of 2026-07-06 (STP Build, week 11/11 — RACE WEEK)
+
+- **Volume:** bike = shakedown ride(s) + THE RACE (211.1 mi); run 0; strength 0 (taper-correct).
+- **Key sessions:**
+  - Wed 7/8: Last shakeout ride, 20 mile Langley loop at a gentle 1:24:00 moving. 125W average
+  - **Sat 7/11: STP ONE-DAY — FINISHED, 8:51pm, 9 min inside the 9pm cutoff.** 211.1 mi / 16:24 elapsed / 13:44 moving / **2:40 stopped** / +3,976 ft / 108W avg (all-in), **143W NP, IF 0.67**, TSS 521 / HR 141 avg, 171 max / 81 rpm / 15.4 mph moving / 4:27am rollout / 86–89°F afternoon, ridden through the heat peak / 5,324 kJ / ~6,200 kcal.
+    - **Decoupling +5.3% — the single-digit, clean-fueled long ride the gate demanded, delivered at 211 mi in worse heat than the 132-mi gate ride (+14.2%).** Pedaling power by thirds 140 → 135 → 131W (−6% over 13.7h); coasting share 9% → 11% (gate ride: 12% → 26%). Zero glycogen-collapse signature, zero GI-driven stops, no cramping. Cadence 74–89 all day. **Fueling/sodium rebuild (Tailwind + real food + hourly sodium + gel-as-insurance) fully validated at full distance.**
+    - **Pacing plan executed to the watt:** NP 143 vs 140–150 target. HR ran ~1 zone above power all afternoon (36% ≥145) — heat drift, not pacing failure; power never left plan.
+    - **Endgame:** laps 18–19 (mi ~172–192) in a solid paceline — 15.8–15.9 mph at 94–104W (**15.3–16.9 mph/100W vs ~13 solo baseline**, ~30% draft savings), HR 133 = lowest of the day; functioned as rolling recovery. Dropped by **puncture (8.9-min fix, final stop)**, then the hardest lap of the entire day at mi ~192–202: **152W avg / 165W NP / HR 153** solo TT against the cutoff, after 15 hours. Engine intact to the end.
+    - **Sole failure mode: stopped time.** 2:40 vs 75–90 min budget; four stops ≥20 min (23/24/28/20 min) = 96 min of it. Checkpoint card had Centralia at 11:35am — 25 min ahead of "Good" — and moving pace alone finishes ~7:15pm. **The entire cutoff drama was purchased off the bike.** (Caveat: the two biggest stops sat in the 89°F peak and probably contributed to the clean decoupling — some of that time was load-bearing cooling.)
+  - **Sun 7/12:** full rest.
+- **Body:** [Fill in: post-race legs, sleep, RHR/HRV response over next days.] No cramping, no GI distress, no bonk on race day. Saddle/arm/knee status at mi 200+: [fill in — any of the symptom cluster at full distance?]. Left knee: [status] — **PT evaluation if still present, per plan.**
+- **Adjustments:** None — race week executed to plan. One-vs-two-day gate resolved the only way that counts.
+- **Next week focus:** **Phase 2 recovery, week 1/2.** Very easy: walks, light spins only. **No running days 1–3; resume easy running ~Thu 7/16 only if legs feel normal.** No strength. Sleep and food. This is the highest-injury-risk window of the year — 10 weeks bike-dominant, then reintroducing ground reaction forces. Do not rush it.
+
+---
+
+### Left knee — status & history (for PT follow-up)
+
+- **Not a new injury.** Originally hurt ~2 years ago (April) in a fall down stairs; disrupted running for ~a year. **Never properly evaluated** — a concurrent right-ankle fracture got the medical focus and the knee was dismissed as "not serious" at the time (so: undiagnosed, from real trauma).
+- **STP-build flare arc:** onset Thu 6/25 (sharp, LEFT side, within ~5 min of riding at *protective* cadence 80–89 rpm + easy Z2 power — i.e. NOT the documented right-side/low-cadence/LLD mechanism). Sharp under pedaling load only; quiet at rest/walking. ~9 days off didn't clear it. 7/1 both-bib test ruled out bib/chamois. 7/5 loaded ride: present after hard efforts/climbs, manageable.
+- **STP 7/11: silent across the full one-day 206 mi.**
+- **Open status: unresolved / undiagnosed. Quiet ≠ fixed.** The likely-structural history means the question is still open. **Marathon build (starts ~7/27) is higher knee-impact than cycling and is exactly when this would resurface** → get the sports-PT eval now while there's time, *before* ramping run volume, not after the next flare.

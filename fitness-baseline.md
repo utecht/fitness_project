@@ -107,6 +107,7 @@ Based on cycling LTHR estimate of 155 (untested placeholder; refine after FTP re
 | 2026-05-16 | 20.1 mi | 1:15 | 1,063 ft | 143 | Compressed hard effort; 48% Z4+Z5; −8.8% decoupling |
 | 2026-05-21 | 16.2 mi | 0:56 | 23 ft | 141 | First ride post-bike-fit, progressive threshold load test |
 | 2026-05-23 | 48.3 mi | 3:21 | 3,255 ft | 138 | First duration test of post-fit; 2/3 right-side symptoms resolved; gut tolerance 164 g/hr no GI |
+| 2026-07-11 | **211.1 mi (STP one-day)** | 13:44 mov / 16:24 el | 3,976 ft | 141 | **RACE. Finished 8:51pm. NP 143W / IF 0.67 / TSS 521 / +5.3% decoupling. Longest ride ever by 79 mi.** |
 
 ## Running
 
@@ -190,6 +191,7 @@ Trend: +6.4 points over ~16 weeks. Cycling base translated strongly to running f
 
 - **~120 g/hr sustained over 3.4 hr (5/23/26)** with no GI issues. Mix of homemade gels + convenience store carbs (gummies, Snickers, fig bars, pie slice, coke).
 - **Practical STP planning target: 80–100 g/hr structured intake** with documented headroom to 120+ g/hr for opportunistic rest-stop top-ups.
+- **Race-validated (STP, 7/11/26, 211 mi / 16.4 hr / 86–89°F):** Tailwind at stops + real food + hourly sodium + hammer gel as early-insurance-only = zero GI issues, zero cramping, +5.3% decoupling, pedaling power −6% over 13.7 hr. This is the reference long-event protocol.
 
 ### Homemade Gel (current)
 
@@ -210,7 +212,7 @@ Trend: +6.4 points over ~16 weeks. Cycling base translated strongly to running f
 
 ## Equipment
 
-- **Outdoor bike:** Raleigh Revino 3.0, size 54. **No power meter, no cadence sensor.**
+- **Outdoor bike:** Raleigh Revino 3.0, size 54. 11-30 34/50 gearing, left crank power meter
 - **Indoor:** Zwift smart trainer (provides power + cadence).
 - **Strength:** Full free-weight setup, power rack, adjustable dumbbells.
 - **Tracking:** Apple Watch Ultra (run + HR), chest HR strap, Wahoo ELEMNT BOLT (cycling, syncs Strava/Zwift/HealthFit).
@@ -222,3 +224,4 @@ Trend: +6.4 points over ~16 weeks. Cycling base translated strongly to running f
 - 2026-04-17 — Initial document.
 - 2026-04-20 — Backfilled from chat history: FTP test 4/1, 5K race results, VO₂ max trend, working pace zones, observed max HR.
 - 2026-05-24 — Major revision through end of STP build week 4. Added: Anatomy/Asymmetries section (LLD finding); Bike Fit section with full dimensional record and history; Cycling HR zones (Wahoo); cadence preference established; weight update (5/20); half marathon result with full detail; Easy Run HR-cap protocol; build-period notable rides through 5/23; Fueling section (gut tolerance, bonk history); Equipment section; refreshed VO₂ max with full Apple Health pull; expanded HR section with HRV, RHR, and walking HR from Apple Health.
+- 2026-07-12 — STP one-day finish added (notable rides, fueling protocol validation). FTP unchanged at 215 (no retest; race data consistent — IF 0.67 all-day sustainable).

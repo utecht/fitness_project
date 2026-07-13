@@ -14,7 +14,7 @@ Review cadence: every 3–4 weeks, or after any disrupted week.
 - Strength: 1 light session early in the week, none the last 4 days
 - **Goal:** arrive fresh, 2:10 target, adjust race-day based on metatarsal feedback
 
-## Phase 1 — STP Build (Apr 27 – Jul 11, ~10.5 weeks)
+## Phase 1 — STP Build (Apr 27 – Jul 11) ✅ COMPLETE — ONE-DAY FINISH, 7/11/26, 8:51pm
 
 Primary: cycling endurance + fueling/comfort tolerance.
 Secondary: run maintenance (2x/week, easy only, ~15–20 mpw equivalent).
@@ -44,8 +44,11 @@ Tertiary: strength 2x/week through week 8, dropping to 1x final 3 weeks.
 - **Commit criterion (working draft):** within the prior 3 weeks, completed a 120+ mile ride at target STP pace with sustained fueling at ≥75 g/hr and no major comfort breakdown
 - **Final commit:** Monday July 6 (gear-truck drop for tent/sleeping bag is Friday July 10)
 - Fallback two-day plan is not a downgrade — the "strong effort" version of two-day still requires the same fitness
+**RESOLVED 7/11: one-day attempted and completed.** Gate criteria were never fully ticked in training (distance ✓ on 6/20; clean fueling ✓ only at 94 mi on 5/30) — race day delivered both simultaneously. For future ultra-distance gates: the stocked-event format materially outperformed self-supported training rides; weight training-ride fueling failures accordingly.
 
 ## Phase 2 — STP Recovery + Transition (Jul 13 – Jul 26, 2 weeks)
+
+- Marathon build start 7/27 is conditional on a clean recovery fortnight — if RHR/HRV haven't normalized or running restart shows any gait compensation, slide the start a week. 18 weeks has slack; the risk window doesn't.
 
 - **Week 1:** very easy. Short walks, light spins. No running days 1–3. Resume easy running day 5 onward if legs feel normal.
 - **Week 2:** rebuild run volume cautiously. Short runs only, no long run. Assess body feedback daily. This is the highest-risk injury period of the year — 10 weeks of bike-dominant stress, then reintroducing ground reaction forces.
@@ -73,8 +76,8 @@ Tertiary: strength 2x/week, drop to 1x/week final 3 weeks.
 
 ## Open questions / decisions needed
 
-- [X] Bike fit appointment booked? Target: first 2 weeks of STP build
-- [X] Nutrition products chosen and tested? Need to lock by week 4 STP build
-- [ ] Figure out strength training cadence, have had a hard time completing these as scheduled.
-- [ ] STP lodging / logistics / support plan
+- [X] STP lodging / logistics / support plan — complete, race done
+- [ ] Strength training cadence — still unresolved; decide before marathon build wk1 (7/27). Options: fixed Tue slot (worked wk8) or formal drop to 1x/week for the whole build.
 - [ ] Marathon qualifying time goal — revisit after first 4 weeks of marathon build
+- [ ] **NEW: Left knee PT evaluation** — book during recovery weeks if symptoms persist post-STP
+- [ ] **NEW: Stop-discipline as a race skill** — 2:40 stopped at STP vs 90-min budget; if a future long event has a cutoff, rehearse timed stops in training, not just riding
