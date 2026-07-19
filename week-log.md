@@ -334,9 +334,27 @@ Append one entry per week, newest at bottom. 3–5 lines per week. This is the p
     - **Endgame:** laps 18–19 (mi ~172–192) in a solid paceline — 15.8–15.9 mph at 94–104W (**15.3–16.9 mph/100W vs ~13 solo baseline**, ~30% draft savings), HR 133 = lowest of the day; functioned as rolling recovery. Dropped by **puncture (8.9-min fix, final stop)**, then the hardest lap of the entire day at mi ~192–202: **152W avg / 165W NP / HR 153** solo TT against the cutoff, after 15 hours. Engine intact to the end.
     - **Sole failure mode: stopped time.** 2:40 vs 75–90 min budget; four stops ≥20 min (23/24/28/20 min) = 96 min of it. Checkpoint card had Centralia at 11:35am — 25 min ahead of "Good" — and moving pace alone finishes ~7:15pm. **The entire cutoff drama was purchased off the bike.** (Caveat: the two biggest stops sat in the 89°F peak and probably contributed to the clean decoupling — some of that time was load-bearing cooling.)
   - **Sun 7/12:** full rest.
-- **Body:** [Fill in: post-race legs, sleep, RHR/HRV response over next days.] No cramping, no GI distress, no bonk on race day. Saddle/arm/knee status at mi 200+: [fill in — any of the symptom cluster at full distance?]. Left knee: [status] — **PT evaluation if still present, per plan.**
+  - **Body:** Recovery clean: RHR/HRV normalized by ~day 4–5, stairs test passed day 4, no lingering soreness. No cramping, no GI distress, no bonk on race day. Symptom cluster at mi 200+: saddle/arm managed via established protocols, nothing ride-limiting. Left knee: silent across all 211 mi — undiagnosed, PT eval to follow in recovery fortnight.
 - **Adjustments:** None — race week executed to plan. One-vs-two-day gate resolved the only way that counts.
 - **Next week focus:** **Phase 2 recovery, week 1/2.** Very easy: walks, light spins only. **No running days 1–3; resume easy running ~Thu 7/16 only if legs feel normal.** No strength. Sleep and food. This is the highest-injury-risk window of the year — 10 weeks bike-dominant, then reintroducing ground reaction forces. Do not rush it.
+
+## Week of 2026-07-13 (Phase 2 recovery, week 1/2)
+
+- **Volume:** run 2x (Wed 3.06 + Sat 3.04 = ~6.1 mi), bike 1x Zwift recovery spin (8.7 mi), strength 0 (recovery-correct). Lightest week since the layoff — by design.
+- **Key sessions:**
+  - **Wed 7/15:** RUN #1 POST-STP (day 4), 35:06 / 3.06 mi / 11:29/mi / HR 142 avg, 163 max / 160 spm / +240 ft / 209W / 75°F, 4pm. Diagnostic verdict: mechanics clean (stance/cad/VO flat across thirds, knees silent, transient mi-1 foot soreness resolved <1 min), systemic recovery incomplete — 62% under cap despite pace fading 10:38→12:04, HR-recovery after hills degraded 45s→7min across the run, decoupling +13.7% with falling power. Expected day-4 signature, not a flag.
+  - **Sat 7/18:** RUN #2 POST-STP (day 7), 33:30 / 3.04 mi (main 32.4 min / 2.91 mi / 11:09/mi) + 1 stride (6:23/mi peak, HR 179) / HR 141 avg, 159 max main / 162 spm / +240 ft / 68°F. Recovery-direction flip vs Wed: hill recoveries improved through the run (2:26 → 46–55s) instead of degrading, decoupling +13.7→+10.0%, power stable. 66% under cap — miss mostly a too-brisk mile 1 (10:15 @ 139, protocol says open <130). Mechanics clean ×2, knees/feet silent. ~90% recovered.
+  - **Sun 7/19:** Zwift recovery spin (streak wk 30), 35:36 / 8.68 mi / 116W avg, NP 132, IF 0.61 / HR 124 avg, 158 max / cad 94 avg, 86% ≥85 rpm, zero sub-75-under-load / 92% Z1+Z2 power. Recovery-legal except a finish sprint (902W peak) — the recurring can't-help-it pattern. Knee-safe cadence profile, knee quiet.
+- **Body:**
+  - **Systemic STP recovery tracked cleanly across the week:** RHR/HRV back to baseline by mid-week, stairs test passed pre-run-1. Under load: Wed showed autonomic lag (degrading hill recovery), Sat showed the flip to normal-and-improving. Read: ~90% by day 7, on track for full by build start.
+  - **Left knee: silent all week** — 2 runs, 1 spin, daily life. Still undiagnosed; quiet ≠ cleared. PT eval remains open.
+  - **Feet:** transient mi-1 soreness Wed (resolved <1 min, no recurrence), nothing Sat. Normal tissue re-awakening after 10 bike-dominant weeks.
+- **Adjustments / decisions:**
+  - **Mt Baker Hill Climb (9/13) DROPPED** — undiagnosed knee + gearing + wk-7 timing in the run build. Revisit 2027 on the new bike. macro-plan.md updated (Phase 2/3 restructure, RSVP folded into wk 4, target-time section, open-items refresh).
+  - **Marathon provisional target set: 4:20–4:30**, firm decision at wk 8 checkpoint (~Sep 20).
+  - **Strength cadence resolved:** formal 1x/week (Tue slot) for the entire build.
+  - **Gear:** Nimbus 28 ordered (break-in starts this week; Novablast 5 deferred to ~late Aug as tempo-phase rotation pair pending knee clearance). Crew-height merino running socks ordered — cotton retired from training before volume ramps.
+- **Next week focus (recovery wk 2/2):** 3 easy runs Mon/Wed/Fri, 25–35 min, no strides sets. **Mon = gate check: ≥85% under cap + 45–60s hill recoveries = fully recovered.** One light strength restart mid-week. Optional easy spins. **BOOK THE PT EVAL — call Monday, this is the week's keystone and the last window before the build.** Build starts Mon 7/27, ~20–25 mpw, 10-mi long run in Vancouver.
 
 ---
 

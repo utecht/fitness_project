@@ -50,8 +50,9 @@ Tertiary: strength 2x/week through week 8, dropping to 1x final 3 weeks.
 
 - Marathon build start 7/27 is conditional on a clean recovery fortnight — if RHR/HRV haven't normalized or running restart shows any gait compensation, slide the start a week. 18 weeks has slack; the risk window doesn't.
 
-- **Week 1:** very easy. Short walks, light spins. No running days 1–3. Resume easy running day 5 onward if legs feel normal.
-- **Week 2:** rebuild run volume cautiously. Short runs only, no long run. Assess body feedback daily. This is the highest-risk injury period of the year — 10 weeks of bike-dominant stress, then reintroducing ground reaction forces.
+- **Week 1:** very easy. Short walks, light spins. No running days 1–3. First run gated on: RHR back within 2–3 bpm of the 55–60 baseline, no lingering leg soreness on stairs/walks, left knee quiet in daily life. Target ~Thu 7/16–Sat 7/18, 20–25 min at HR cap, walk breaks freely allowed.
+- **Week 2:** rebuild run volume cautiously. 3 short easy runs (20–35 min), no long run, no strides yet. Assess body feedback daily — any gait asymmetry or knee signal ends the run immediately. This is the highest-risk injury period of the year — 10 weeks of bike-dominant stress, then reintroducing ground reaction forces.
+- **PT eval for left knee: book this fortnight** — before run volume ramps, not after the next flare.
 
 ## Phase 3 — Marathon Build (Jul 27 – Nov 29, ~18 weeks)
 
@@ -62,10 +63,17 @@ Tertiary: strength 2x/week, drop to 1x/week final 3 weeks.
 ### Block layout
 
 - **Weeks 1–4 (Jul 27 – Aug 23):** Base rebuild. Long run 10 → 14 mi. Running volume to ~25 mpw. No hard workouts, just easy + strides.
-- **Weeks 5–8 (Aug 24 – Sep 20):** Base continuation. Long run 15 → 18 mi. Introduce tempo and a little MP work. ~30 mpw.
-- **Weeks 9–12 (Sep 21 – Oct 18):** Specific phase. Long run 18 → 22 mi. Extended MP segments inside long runs. ~35 mpw.
+  - **Aug 1–6: Vancouver vacation, wk 1–2.** Run-only (no bike/strength) — zero-cost, weeks are easy-run-only anyway. Wk 1 long run (~10 mi) done in Vancouver (Stanley Park seawall — flat).
+  - **Aug 22–23: RSVP (wk 4).** Ride both days pure Z2 / casual IF — aerobic maintenance block, not a race. Wk 4 long run moves to Tue/Wed 8/18–19. No quality run within 48h either side of the ride.
+- **Weeks 5–8 (Aug 24 – Sep 20):** Base continuation. Long run 15 → 18 mi. Introduce tempo and a little MP work. ~30 mpw. Wk 5 opens genuinely easy (post-RSVP absorb); tempo introduction slides ~3–4 days — cheap.
+  - **Wk 8 = marathon target-time checkpoint:** MP segments at ~10:00/mi holding upper-Z3 HR without drift → commit 4:20; costing Z4 → race at 4:30 plan.
+- **Weeks 9–12 (Sep 21 – Oct 18):** Specific phase. Long run 18 → 22 mi. Extended MP segments inside long runs. ~35 mpw. **No events — protect these weekends; this is where the race is built (keystone-protection rule applies to long runs now).**
 - **Weeks 13–15 (Oct 19 – Nov 8):** Peak. Long run 22 mi, one 22–24 if body allows. ~35–40 mpw.
 - **Weeks 16–18 (Nov 9 – Nov 29):** 3-week taper.
+
+### 2026 target: 4:20–4:30 (MP ~9:55–10:15/mi), provisional
+
+Riegel off the 2:05:56 half says ~4:15–4:22, but predictors assume marathon volume the legs don't have yet. Hilly Seattle course eats a few minutes. Firm decision at wk 8 checkpoint. First marathon priority: strong-effort finish / negative split over a blow-up chasing 4:10–4:15. BQ (40–44 bracket, ~3:05) is a multi-marathon arc — Seattle is #1 of that arc, not a BQ attempt.
 
 ## Risk Points Calendar
 
@@ -77,7 +85,10 @@ Tertiary: strength 2x/week, drop to 1x/week final 3 weeks.
 ## Open questions / decisions needed
 
 - [X] STP lodging / logistics / support plan — complete, race done
-- [ ] Strength training cadence — still unresolved; decide before marathon build wk1 (7/27). Options: fixed Tue slot (worked wk8) or formal drop to 1x/week for the whole build.
-- [ ] Marathon qualifying time goal — revisit after first 4 weeks of marathon build
-- [ ] **NEW: Left knee PT evaluation** — book during recovery weeks if symptoms persist post-STP
-- [ ] **NEW: Stop-discipline as a race skill** — 2:40 stopped at STP vs 90-min budget; if a future long event has a cutoff, rehearse timed stops in training, not just riding
+- [X] Strength training cadence — RESOLVED 7/13: formal 1x/week for the entire marathon build, fixed Tue slot (proven). Single-arm DB press replaces OHP (R-side asymmetry). 2x/week aspiration retired — one consistent session beats two theoretical.
+- [X] Mt Baker Hill Climb (Sep 13) — DROPPED 7/13. Undiagnosed left knee + 34/30 gearing at knee-trigger cadence on sustained climbing + wk-7 timing in the run build = bad risk/reward. Revisit 2027 on the new bike (lighter, easier gearing).
+- [ ] Marathon qualifying time goal — provisional 4:20–4:30 set; firm at wk 8 checkpoint (~Sep 20)
+- [ ] **Left knee PT evaluation** — book during recovery fortnight, BEFORE run ramp. Load-bearing for the whole build.
+- [ ] Stop-discipline as a race skill — 2:40 stopped at STP vs 90-min budget; if a future long event has a cutoff, rehearse timed stops in training, not just riding
+- [ ] RSVP (Aug 22–23) — registered? Confirm entry status; currently planned as wk-4 Z2 maintenance block
+- [ ] Shoe rotation — Nimbus 26 at 400+ mi pre-ramp. Start breaking in Nimbus 28 #1 during recovery fortnight; stagger #2
