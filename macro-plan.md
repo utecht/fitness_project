@@ -88,7 +88,14 @@ Riegel off the 2:05:56 half says ~4:15–4:22, but predictors assume marathon vo
 - [X] Strength training cadence — RESOLVED 7/13: formal 1x/week for the entire marathon build, fixed Tue slot (proven). Single-arm DB press replaces OHP (R-side asymmetry). 2x/week aspiration retired — one consistent session beats two theoretical.
 - [X] Mt Baker Hill Climb (Sep 13) — DROPPED 7/13. Undiagnosed left knee + 34/30 gearing at knee-trigger cadence on sustained climbing + wk-7 timing in the run build = bad risk/reward. Revisit 2027 on the new bike (lighter, easier gearing).
 - [ ] Marathon qualifying time goal — provisional 4:20–4:30 set; firm at wk 8 checkpoint (~Sep 20)
-- [ ] **Left knee PT evaluation** — book during recovery fortnight, BEFORE run ramp. Load-bearing for the whole build.
+- [ ] Left knee — PT unavailable until Nov (waitlist). Self-managed through the build under these rules; telehealth PT / sports-med MD still being pursued.
+  - **Weekly tracked variable:** knee status line in every week-log entry (silent / aware / painful), even when silent.
+  - **In-session hard stop (existing rule, now permanent):** any sharp knee signal or gait asymmetry ends the run immediately. No "see if it warms up."
+  - **24h rule:** any knee awareness lasting >24h post-run → skip the next run, substitute Zwift Z2 ≤IF 0.65 at ≥85 rpm (the proven knee-safe profile).
+  - **Escalation trigger:** two flares within one build week, OR any flare during a long run → drop run volume 30% for a week AND book sports-med MD (urgent-care referral path if needed — an acute presentation books faster than a waitlist).
+  - **Volume discipline is the prophylaxis:** no compressing missed runs into fewer bigger runs; a missed session stays missed.
+  - **Strength bias:** Tue slot weights toward single-leg control — step-ups, bodyweight split squats, glute work. NO loaded deep single-leg flexion (5/28 bilateral patellofemoral lesson stands).
+  - **Bike-specific caution stands:** the trigger context was cycling. RSVP (Aug 22–23) is the one big bike exposure in the build — if the knee speaks at any point before it, RSVP converts to one-day-only or scratch. Cheap insurance, zero marathon cost.
 - [ ] Stop-discipline as a race skill — 2:40 stopped at STP vs 90-min budget; if a future long event has a cutoff, rehearse timed stops in training, not just riding
 - [ ] RSVP (Aug 22–23) — registered? Confirm entry status; currently planned as wk-4 Z2 maintenance block
 - [ ] Shoe rotation — Nimbus 26 at 400+ mi pre-ramp. Start breaking in Nimbus 28 #1 during recovery fortnight; stagger #2
