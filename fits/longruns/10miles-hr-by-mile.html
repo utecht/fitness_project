@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HR by mile · Sun 8/2 run</title>
+<style>
+:root{--bg:#0f1115;--panel:#161a22;--panel2:#1c2230;--border:#262d3d;--text:#e6e8ee;--muted:#8a93a6;--accent:#7cc4ff;--z1:#3a4a6b;--z2:#1f8a5a;--z3:#b3741b;--z4:#b23b3b;--mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+@media(prefers-color-scheme:light){:root{--bg:#f7f8fa;--panel:#fff;--panel2:#f0f3f8;--border:#e2e6ee;--text:#1a1d23;--muted:#5f6774;--accent:#1566c0}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:1040px;margin:0 auto;padding:20px}
+h1{font-size:18px;font-weight:600;margin:0}.sub{color:var(--muted);font-size:13px;margin-top:2px}
+.controls{display:flex;gap:18px;flex-wrap:wrap;align-items:center;margin:16px 0;font-size:13px;color:var(--muted)}
+.controls label{display:flex;align-items:center;gap:6px}
+input[type=number]{width:62px;background:var(--panel2);border:1px solid var(--border);color:var(--text);border-radius:6px;padding:4px 6px;font:inherit;font-family:var(--mono)}
+input[type=checkbox]{accent-color:var(--accent)}
+.card{background:var(--panel);border:1px solid var(--border);border-radius:10px;padding:14px 16px 10px}
+svg{width:100%;height:auto;display:block}
+.legend{display:flex;gap:16px;flex-wrap:wrap;font-size:12px;color:var(--muted);margin-top:10px}
+.legend span::before{content:"";display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px;background:var(--c)}
+.note{color:var(--muted);font-size:12px;margin-top:12px;line-height:1.5}
+</style></head><body><div class="wrap">
+<h1>Heart rate distribution by mile</h1>
+<div class="sub">Sun Aug 2, 6:24 AM · 10.01 mi · running-only samples (stops removed) · 1 sample/sec</div>
+<div class="controls">
+<label>Easy cap <input type="number" id="cap" value="145"></label>
+<label>Watch Z2 ceiling <input type="number" id="watch" value="150"></label>
+<label><input type="checkbox" id="showDensity" checked> density</label>
+<label><input type="checkbox" id="showBox" checked> quartiles</label>
+</div>
+<div class="card"><svg id="chart" viewBox="0 0 1000 524" role="img" aria-label="Heart rate distribution per mile"></svg>
+<div class="legend"><span style="--c:var(--z1)">Z1 &lt;125</span><span style="--c:var(--z2)">Z2 125–cap</span><span style="--c:var(--z3)">Z3 cap+1–155</span><span style="--c:var(--z4)">Z4 156+</span><span style="--c:var(--accent)">median · box p25–p75 · whisker p10–p90</span><span style="--c:var(--z3)">▲ climb</span><span style="--c:var(--accent)">▼ descent</span> · pace colored fast→slow (green→amber→red, OKLCH constant lightness)</div></div>
+<div class="note" id="note"></div>
+</div>
+<script>
+const M=[{"mile": 1, "label": "Mi 1", "pace": "10:40", "avg": 123.1, "max": 135, "min": 80, "p10": 107, "p25": 123, "p50": 128, "p75": 130, "p90": 131, "gain": 49, "loss": 161, "n": 631, "hist": {"91": 3, "88": 1, "87": 2, "89": 3, "92": 2, "93": 3, "94": 3, "95": 5, "85": 2, "84": 1, "83": 3, "82": 5, "81": 6, "80": 3, "98": 1, "104": 2, "108": 7, "109": 6, "111": 6, "110": 11, "107": 15, "112": 2, "115": 3, "116": 7, "117": 5, "113": 1, "106": 5, "105": 3, "121": 2, "122": 3, "125": 47, "126": 36, "127": 40, "128": 95, "124": 22, "123": 11, "120": 3, "119": 20, "118": 3, "129": 63, "130": 57, "133": 16, "134": 9, "135": 7, "132": 25, "131": 56}}, {"mile": 2, "label": "Mi 2", "pace": "10:18", "avg": 138.7, "max": 145, "min": 125, "p10": 136, "p25": 137, "p50": 139, "p75": 140, "p90": 142, "gain": 91, "loss": 100, "n": 631, "hist": {"134": 12, "135": 13, "136": 56, "137": 48, "139": 154, "138": 90, "140": 81, "141": 42, "142": 40, "143": 28, "144": 24, "145": 10, "125": 5, "126": 1, "127": 2, "128": 1, "129": 1, "130": 2, "131": 1, "132": 8, "133": 12}}, {"mile": 3, "label": "Mi 3", "pace": "10:19", "avg": 136.5, "max": 144, "min": 109, "p10": 131, "p25": 135, "p50": 137, "p75": 140, "p90": 141, "gain": 150, "loss": 132, "n": 614, "hist": {"139": 68, "140": 45, "141": 79, "142": 33, "138": 63, "137": 77, "136": 50, "135": 45, "134": 37, "128": 4, "129": 9, "130": 12, "131": 21, "132": 9, "133": 15, "143": 9, "144": 7, "109": 2, "110": 1, "112": 1, "113": 1, "114": 1, "115": 2, "116": 2, "117": 1, "118": 1, "119": 2, "120": 1, "121": 2, "122": 1, "123": 1, "124": 2, "125": 6, "126": 3, "127": 1}}, {"mile": 4, "label": "Mi 4", "pace": "10:30", "avg": 139.1, "max": 147, "min": 130, "p10": 134, "p25": 137, "p50": 140, "p75": 141, "p90": 143, "gain": 142, "loss": 132, "n": 636, "hist": {"137": 48, "138": 54, "139": 92, "140": 90, "141": 74, "142": 66, "143": 51, "144": 25, "145": 8, "146": 6, "147": 1, "136": 30, "135": 21, "134": 19, "133": 13, "132": 11, "131": 22, "130": 5}}, {"mile": 5, "label": "Mi 5", "pace": "10:39", "avg": 139.4, "max": 147, "min": 129, "p10": 137, "p25": 138, "p50": 139, "p75": 141, "p90": 142, "gain": 334, "loss": 229, "n": 646, "hist": {"141": 85, "140": 84, "139": 163, "138": 127, "142": 44, "143": 39, "144": 6, "145": 6, "146": 4, "147": 6, "137": 42, "129": 1, "131": 3, "132": 3, "133": 2, "134": 8, "135": 3, "136": 19, "130": 1}}, {"mile": 6, "label": "Mi 6", "pace": "10:41", "avg": 137.7, "max": 144, "min": 126, "p10": 135, "p25": 136, "p50": 138, "p75": 140, "p90": 142, "gain": 195, "loss": 294, "n": 658, "hist": {"137": 61, "136": 86, "135": 63, "134": 15, "133": 14, "138": 99, "139": 106, "140": 69, "132": 5, "131": 2, "129": 11, "128": 11, "127": 2, "126": 2, "130": 3, "141": 40, "142": 39, "143": 25, "144": 5}}, {"mile": 7, "label": "Mi 7", "pace": "10:44", "avg": 138.0, "max": 142, "min": 131, "p10": 136, "p25": 137, "p50": 138, "p75": 139, "p90": 140, "gain": 102, "loss": 101, "n": 657, "hist": {"131": 2, "132": 7, "133": 9, "134": 21, "135": 26, "136": 40, "137": 96, "138": 166, "139": 151, "140": 111, "141": 16, "142": 12}}, {"mile": 8, "label": "Mi 8", "pace": "10:49", "avg": 135.3, "max": 140, "min": 119, "p10": 130, "p25": 135, "p50": 136, "p75": 138, "p90": 139, "gain": 117, "loss": 122, "n": 657, "hist": {"137": 114, "136": 138, "135": 89, "134": 50, "133": 15, "132": 9, "131": 7, "138": 96, "139": 60, "140": 12, "129": 10, "127": 5, "126": 9, "128": 14, "130": 3, "120": 5, "119": 3, "121": 3, "122": 5, "123": 6, "124": 2, "125": 2}}, {"mile": 9, "label": "Mi 9", "pace": "10:30", "avg": 138.2, "max": 147, "min": 119, "p10": 133, "p25": 135, "p50": 138, "p75": 142, "p90": 144, "gain": 125, "loss": 86, "n": 658, "hist": {"138": 37, "139": 28, "140": 26, "141": 58, "137": 37, "136": 65, "135": 60, "134": 43, "133": 37, "132": 21, "142": 76, "143": 44, "131": 20, "120": 2, "119": 3, "122": 1, "123": 1, "124": 1, "125": 2, "126": 1, "127": 2, "128": 1, "129": 3, "130": 3, "144": 33, "145": 25, "146": 16, "147": 12}}, {"mile": 10, "label": "Mi 10", "pace": "10:31", "avg": 138.0, "max": 145, "min": 130, "p10": 135, "p25": 137, "p50": 138, "p75": 139, "p90": 142, "gain": 57, "loss": 104, "n": 642, "hist": {"143": 21, "144": 22, "142": 24, "141": 32, "140": 43, "139": 109, "138": 123, "137": 119, "136": 54, "135": 29, "134": 32, "133": 11, "132": 7, "131": 9, "130": 3, "145": 4}}];
+M.forEach(m=>{const [a,b]=m.pace.split(':').map(Number);m.paceSec=a*60+b});
+const pMin=Math.min(...M.map(m=>m.paceSec)),pMax=Math.max(...M.map(m=>m.paceSec)),gMax=Math.max(...M.map(m=>Math.max(m.gain,m.loss)));
+function paceColor(sec){const t=(pMax-sec)/(pMax-pMin);const h=25+t*120;return `oklch(0.74 0.16 ${h.toFixed(1)})`}
+const svg=document.getElementById('chart');
+const X0=120,X1=165,W=1000,H=620,padL=130,padR=150,padTop=34,rowH=44;
+const x=v=>padL+(v-X0)/(X1-X0)*(W-padL-padR);
+function render(){
+ const cap=+document.getElementById('cap').value,watch=+document.getElementById('watch').value;
+ const dens=document.getElementById('showDensity').checked,box=document.getElementById('showBox').checked;
+ let s='';
+ // zone bands
+ const bands=[[X0,125,'var(--z1)'],[125,cap,'var(--z2)'],[cap,155,'var(--z3)'],[155,X1,'var(--z4)']];
+ bands.forEach(([a,b,c])=>{s+=`<rect x="${x(a)}" y="${padTop}" width="${x(b)-x(a)}" height="${rowH*M.length}" fill="${c}" opacity="0.13"/>`});
+ // grid + axis
+ for(let v=X0;v<=X1;v+=5){s+=`<line x1="${x(v)}" y1="${padTop}" x2="${x(v)}" y2="${padTop+rowH*M.length}" stroke="var(--border)" stroke-width="1"/>`;
+  s+=`<text x="${x(v)}" y="${padTop-10}" font-size="11" fill="var(--muted)" text-anchor="middle" font-family="var(--mono)">${v}</text>`}
+ // cap & watch lines
+ s+=`<line x1="${x(cap)}" y1="${padTop-4}" x2="${x(cap)}" y2="${padTop+rowH*M.length+4}" stroke="var(--z3)" stroke-width="2"/>`;
+ s+=`<text x="${x(cap)+4}" y="${padTop+rowH*M.length+16}" font-size="11" fill="var(--z3)" font-family="var(--mono)">cap ${cap}</text>`;
+ s+=`<line x1="${x(watch)}" y1="${padTop-4}" x2="${x(watch)}" y2="${padTop+rowH*M.length+4}" stroke="var(--muted)" stroke-width="1.5" stroke-dasharray="4 4"/>`;
+ s+=`<text x="${x(watch)+4}" y="${padTop+rowH*M.length+30}" font-size="11" fill="var(--muted)" font-family="var(--mono)">watch Z2 padTop ${watch}</text>`;
+ // header labels
+ s+=`<text x="12" y="${padTop-10}" font-size="11" fill="var(--muted)">MILE · PACE</text>`;
+ s+=`<text x="${W-padR+8}" y="${padTop-10}" font-size="11" fill="var(--muted)">≤CAP · CLIMB ft</text>`;
+ M.forEach((m,i)=>{
+  const y=padTop+i*rowH,cy=y+rowH/2;
+  const n=m.n; let under=0;const keys=Object.keys(m.hist).map(Number);
+  keys.forEach(k=>{if(k<=cap)under+=m.hist[k]});
+  const pct=Math.round(under/n*100);
+  // density polygon (2-bpm smoothing)
+  if(dens){let maxc=0;const arr=[];for(let v=X0;v<=X1;v++){const c=((m.hist[v-1]||0)+(m.hist[v]||0)*2+(m.hist[v+1]||0))/4;arr.push([v,c]);if(c>maxc)maxc=c}
+   const sc=(rowH*0.42)/maxc;let p=`M${x(X0)},${cy}`;arr.forEach(([v,c])=>p+=` L${x(v)},${cy-c*sc}`);p+=` L${x(X1)},${cy}`;
+   let q=`M${x(X0)},${cy}`;arr.forEach(([v,c])=>q+=` L${x(v)},${cy+c*sc}`);q+=` L${x(X1)},${cy}`;
+   s+=`<path d="${p}" fill="var(--accent)" opacity="0.28"/><path d="${q}" fill="var(--accent)" opacity="0.28"/>`}
+  if(box){s+=`<line x1="${x(m.p10)}" y1="${cy}" x2="${x(m.p90)}" y2="${cy}" stroke="var(--text)" stroke-width="1.5" opacity="0.7"/>`;
+   s+=`<rect x="${x(m.p25)}" y="${cy-7}" width="${x(m.p75)-x(m.p25)}" height="14" fill="var(--panel)" stroke="var(--text)" stroke-width="1.5" rx="2"/>`;
+   s+=`<line x1="${x(m.p50)}" y1="${cy-9}" x2="${x(m.p50)}" y2="${cy+9}" stroke="var(--accent)" stroke-width="3"/>`}
+  s+=`<text x="12" y="${cy+4}" font-size="13" fill="var(--text)" font-weight="600">Mi ${m.mile}</text>`;
+  s+=`<text x="58" y="${cy+4}" font-size="13" font-weight="600" fill="${paceColor(m.paceSec)}" font-family="var(--mono)">${m.pace}</text>`;
+  const pc=pct>=85?'var(--z2)':pct>=60?'var(--z3)':'var(--z4)';
+  s+=`<text x="${W-padR+8}" y="${cy+4}" font-size="12" font-family="var(--mono)" fill="${pc}">${pct}%</text>`;
+  const bx=W-padR+48,bw=50,gw=m.gain/gMax*bw,lw=m.loss/gMax*bw;
+  s+=`<rect x="${bx}" y="${cy-9}" width="${gw}" height="7" fill="var(--z3)" rx="1.5"/><text x="${bx+gw+4}" y="${cy-2}" font-size="10" font-family="var(--mono)" fill="var(--z3)">▲${m.gain}</text>`;
+  s+=`<rect x="${bx}" y="${cy+2}" width="${lw}" height="7" fill="var(--accent)" opacity="0.7" rx="1.5"/><text x="${bx+lw+4}" y="${cy+9}" font-size="10" font-family="var(--mono)" fill="var(--accent)">▼${m.loss}</text>`;
+  s+=`<line x1="${padL}" y1="${y+rowH}" x2="${W-padR}" y2="${y+rowH}" stroke="var(--border)"/>`;
+ });
+ svg.innerHTML=s;
+ // note
+ const overallUnder=M.reduce((a,m)=>a+Object.entries(m.hist).reduce((b,[k,c])=>b+(+k<=cap?c:0),0),0),N=M.reduce((a,m)=>a+m.n,0);
+ const overallWatch=M.reduce((a,m)=>a+Object.entries(m.hist).reduce((b,[k,c])=>b+(+k<=watch?c:0),0),0);
+ document.getElementById('note').innerHTML=`Whole run: <b>${Math.round(overallUnder/N*100)}%</b> at or under ${cap} · <b>${Math.round(overallWatch/N*100)}%</b> at or under the watch's ${watch}. The gap between those two numbers is the disagreement you're feeling. Zone bands use running zones (Z2 125–cap). Set the watch ceiling to whatever your Watch app shows for Z2 to see how much of "high Z2" lands in Z3 here.`;
+}
+['cap','watch','showDensity','showBox'].forEach(id=>document.getElementById(id).addEventListener('input',render));
+render();
+</script></body></html>
