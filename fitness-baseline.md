@@ -77,6 +77,8 @@ Reference position from Gregg's Cycle fit, 5/21/26. Frame: Raleigh Revino 3.0, s
 
 **Current FTP status:** 228W setting has stalled three consecutive sweet-spot attempts (4/30, 5/5, 5/13), but each was 3–4 days after a major Saturday ride — residual fatigue confound unresolved. Retest indicated, scheduleable post-fit (target: week of 5/25 after 1–2 settle-in rides on new position).
 
+**8/16/26:** retest never happened; 215 stands as the working number. Zwift's setting may still be ~228, so its displayed IF reads slightly low — immaterial at recovery-spin dose, and those rides are HR-watched anyway. Retest deferred until cycling matters again (new bike, 2027).
+
 ### Cycling HR Zones (Wahoo, established 5/2/26)
 
 Based on cycling LTHR estimate of 155 (untested placeholder; refine after FTP retest).
@@ -136,6 +138,13 @@ Working baseline from tempo data 4/16 and half marathon execution 4/26. Refine a
 ### Easy Run Protocol (established 5/18/26)
 
 **HR cap 145 bpm via Apple Watch alarm — binding constraint, not pace.** Easy runs start near-embarrassingly slow (mile 1 target HR <130). Pace will defer to terrain to defend the HR cap; this is correct behavior. Three pre-method runs drifted from easy → steady-tempo (5/6, 5/10, 5/15); first two post-method runs (5/18, 5/20) executed cleanly with 77–79% in Z2-HR. Method also produces a clean pace-at-fixed-HR fitness signal over time.
+
+**Protocol clarified 8/16/26 — alarm-driven, not display-driven.** Two responses only: alarm on a climb → shuffle rule; alarm on flat → ease off. Short 10–40s terrain grazes to 148–150 with clean return = compliant. Strict compliance retained on long runs only. Compliance arc: 40% → 79% → 90% → 97% (May → Aug).
+
+### Apple Watch Zone Offset & Alerts (documented 8/16/26)
+
+- **Zone offset:** Apple Watch default zones (HRR-based, max 186 / rest ~58) put Z2 ceiling ~148–150 vs. project Z2 ceiling 145. Watch "high Z2" = project low Z3. Fix options: Watch app → Heart Rate Zones → Manual, set Z2 = 125–145; or target mid-Z2 (135–140) on the display. Adopting the latter for now.
+- **Alerts:** Voice Feedback off (watch Settings → Workout) routes alerts to haptic + on-watch only; audiobook no longer interrupted. Apple zone alerts have no hysteresis — expect re-fires on rollers.
 
 ### Cadence
 
@@ -210,14 +219,26 @@ Trend: +6.4 points over ~16 weeks. Cycling base translated strongly to running f
 
 **Pre-ride breakfast 90 min before rollout is non-negotiable** for any ride >2 hr.
 
+### Long-Run Fueling (running)
+
+- **Tailwind protocol validated again 8/15/26** (2 scoops/50g in one 500ml flask, second flask water, ~22 g/hr): fuel clean, no GI. Hydration is the open failure, not carbs.
+- Gel protocol (35/70/105 min, no caffeine, water only) debuts wk 4 — see workout-library.md.
+
 ## Equipment
 
-- **Outdoor bike:** Raleigh Revino 3.0, size 54. 11-30 34/50 gearing, left crank power meter
+- **Outdoor bike:** Raleigh Revino 3.0, size 54. 11-30 34/50 gearing, left crank power meter (flaky since 7/25 — CLOSED 8/16/26, not chasing it: full bike replacement planned before serious 2027 riding)
 - **Indoor:** Zwift smart trainer (provides power + cadence).
 - **Strength:** Full free-weight setup, power rack, adjustable dumbbells.
 - **Tracking:** Apple Watch Ultra (run + HR), chest HR strap, Wahoo ELEMNT BOLT (cycling, syncs Strava/Zwift/HealthFit).
-- **Running shoes:** Asics Gel-Nimbus 26 (~400+ miles, replacement Nimbus 28 ×2 planned).
+- **Watch battery (marathon planning, documented 8/16/26):** Ultra Gen 1 rated ~12h GPS workout; marathon worst case ~5.5h incl. pre-start. Full charge night before; do NOT use Low Power Mode (degrades HR sampling). No dedicated running watch — data suite already complete on Apple Fitness (power, stance, vertical oscillation, real cadence). Third-party recording app rejected 8/11/26 (fake constant cadence, no power).
+- **Analysis tooling:** `hr_by_mile.py` (in repo) — per-mile HR distribution viewer (density + p10/p25/p50/p75/p90, zone bands, editable cap + watch-Z2 ceiling, pace colored fast→slow green→red in OKLCH, per-mile climb/descent bars). Running-only samples (≥1.79 m/s). Usage: `python3 hr_by_mile.py RUN.fit [--cap 145] [--watch 150] [--title ...] [-o out.html]`. Default: generated for every long run; midweek on request. Deps: fitparse, numpy. PDT offset hardcoded.
+- **Running shoes:** Asics Gel-Nimbus 28 #1 (debut 7/20/26, old footbed transferred in; new Road Runner insoles land wk 4). Nimbus 26 retired at ~400+ mi. Nimbus 28 #2 staggered entry pending.
 - **Saddle status:** Specialized Phenom 143mm under evaluation, not working — alternatives to demo (Specialized Power, Bridge, Romin, or others at Gregg's).
+
+## Niggle Watch (marathon build)
+
+- **Adductors:** post-long-run tightness/tenderness 8/15–16 after Fri PT (hip/adductor loading) + Sat 12-miler. Load-stacking, not injury. Monitor; PT-to-long-run spacing not raised with PT (8/16 call) — will raise only if it recurs.
+- **Arches:** bilateral during 12-miler (8/15), R-only slight during 4-milers. Load-dependent, consistent with dead factory footbed. Reassess after new insole (wk 4).
 
 ## Update Log
 
@@ -225,3 +246,4 @@ Trend: +6.4 points over ~16 weeks. Cycling base translated strongly to running f
 - 2026-04-20 — Backfilled from chat history: FTP test 4/1, 5K race results, VO₂ max trend, working pace zones, observed max HR.
 - 2026-05-24 — Major revision through end of STP build week 4. Added: Anatomy/Asymmetries section (LLD finding); Bike Fit section with full dimensional record and history; Cycling HR zones (Wahoo); cadence preference established; weight update (5/20); half marathon result with full detail; Easy Run HR-cap protocol; build-period notable rides through 5/23; Fueling section (gut tolerance, bonk history); Equipment section; refreshed VO₂ max with full Apple Health pull; expanded HR section with HRV, RHR, and walking HR from Apple Health.
 - 2026-07-12 — STP one-day finish added (notable rides, fueling protocol validation). FTP unchanged at 215 (no retest; race data consistent — IF 0.67 all-day sustainable).
+- 2026-08-16 — Marathon-build wk-3 updates: Apple Watch zone offset + alert behavior documented; easy-run cap protocol clarified (alarm-driven, compliance arc); watch battery / recording-app notes and `hr_by_mile.py` added to Equipment; running long-run Tailwind reference added to Fueling; Niggle Watch section (adductors, arches); running-shoe line updated to Nimbus 28.

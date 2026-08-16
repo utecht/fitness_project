@@ -24,13 +24,21 @@ Segments at goal marathon pace (TBD). Used during Phase 3 specific block as segm
 
 ### Strides (ST)
 
-6–8 × 20 sec relaxed fast running, full recovery between. Neuromuscular, not aerobically taxing.
+Structured workout step, "4× stride-relax," 25s each (extended from 20s so GPS captures the build), full recovery between. Fired after the easy mileage as its own segment, never embedded. Target cadence 185+, HR ≤155, relaxed-fast not sprint. Neuromuscular, not aerobically taxing.
+
+### Long-Run Gel Protocol (debuts wk 4 of marathon build)
+
+Gel at ~35 / 70 / 105 min, no caffeine, plain water ad lib alongside, no Tailwind on gel days. One variable at a time.
 
 ### Shakeout
 
 15–25 min very easy + 4 strides. 1–2 days before race.
 
 ## Cycling
+
+### Sunday Recovery Spin (Zwift)
+
+30–45 min, Z1/low Z2, IF ≤0.65, ≥85 rpm. Standing post-long-run slot during the marathon build. Reference session: 8/16/26 — 105W avg, 93% Z1, TSS 13.
 
 ### Zwift Z2 Endurance
 

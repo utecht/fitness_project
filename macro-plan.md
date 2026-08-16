@@ -64,8 +64,8 @@ Tertiary: strength 2x/week, drop to 1x/week final 3 weeks.
 
 - **Weeks 1–4 (Jul 27 – Aug 23):** Base rebuild. Long run 10 → 14 mi. Running volume to ~25 mpw. No hard workouts, just easy + strides.
   - **Aug 1–6: Vancouver vacation, wk 1–2.** Run-only (no bike/strength) — zero-cost, weeks are easy-run-only anyway. Wk 1 long run (~10 mi) done in Vancouver (Stanley Park seawall — flat).
-  - **Aug 22–23: RSVP (wk 4).** Ride both days pure Z2 / casual IF — aerobic maintenance block, not a race. Wk 4 long run moves to Tue/Wed 8/18–19. No quality run within 48h either side of the ride.
-- **Weeks 5–8 (Aug 24 – Sep 20):** Base continuation. Long run 15 → 18 mi. Introduce tempo and a little MP work. ~30 mpw. Wk 5 opens genuinely easy (post-RSVP absorb); tempo introduction slides ~3–4 days — cheap.
+  - ~~**Aug 22–23: RSVP (wk 4).**~~ **DROPPED wk 2 (with Tour de Whidbey — cycling event season over).** Wk 4 reverts to standard structure: Sat 8/22 long run in slot (gel debut).
+- **Weeks 5–8 (Aug 24 – Sep 20):** Base continuation. Long run 15 → 18 mi. Introduce tempo and a little MP work. ~30 mpw. RSVP drop removes the post-event absorb — wk 5 gets first tempo touch on time if wk-4 validations land.
   - **Wk 8 = marathon target-time checkpoint:** MP segments at ~10:00/mi holding upper-Z3 HR without drift → commit 4:20; costing Z4 → race at 4:30 plan.
 - **Weeks 9–12 (Sep 21 – Oct 18):** Specific phase. Long run 18 → 22 mi. Extended MP segments inside long runs. ~35 mpw. **No events — protect these weekends; this is where the race is built (keystone-protection rule applies to long runs now).**
 - **Weeks 13–15 (Oct 19 – Nov 8):** Peak. Long run 22 mi, one 22–24 if body allows. ~35–40 mpw.
@@ -74,6 +74,16 @@ Tertiary: strength 2x/week, drop to 1x/week final 3 weeks.
 ### 2026 target: 4:20–4:30 (MP ~9:55–10:15/mi), provisional
 
 Riegel off the 2:05:56 half says ~4:15–4:22, but predictors assume marathon volume the legs don't have yet. Hilly Seattle course eats a few minutes. Firm decision at wk 8 checkpoint. First marathon priority: strong-effort finish / negative split over a blow-up chasing 4:10–4:15. BQ (40–44 bracket, ~3:05) is a multi-marathon arc — Seattle is #1 of that arc, not a BQ attempt.
+
+### In-build decisions & standing rules (running log)
+
+- **Zwift decision (wk 4, called early wk 3):** Maintenance-restart, not pause. Standing slot: Sunday post-long-run recovery spin, 30–45 min, IF ≤0.65, ≥85 rpm. Not 2×/wk yet — run ramp holds that budget. Streak-protected.
+- **Keystone protection extended to PT:** Hard PT sessions (hip/adductor loading) count as load inside the 72h window before the long run. Wed/Fri PT + Sat long run = Fri session must be light or the long run eats it. Not raised with PT for now (8/16 call) — raise if the adductors flare again.
+- **Long-run logistics rule (new, hard):** Water source physically verified in advance, or car-as-aid-station loop. No trusting fountains. Three consecutive misses (8/2 fine → 8/9 → 8/15) triggered this.
+- **Long-run cap discipline, closing miles:** On descending finishes the target is same HR, not same pace. Negative split at controlled HR is the skill; downhill-assisted negative split with cap abandoned is the anti-pattern (8/15 miles 9–12).
+- **Attrition watch:** counter reset to 0 after 8/15. Two consecutive misses re-arms; three raises Saturday-morning-protection as a formal rule.
+- **Week 4 plan (Aug 17–23):** ~24 mi + Sun spin. Tue easy 4 / Thu easy 4 + 4×25s strides / Fri easy 3 (insole validation) / Sat 13 (gel debut) / Sun Zwift. PT Mon + Wed this week (family in town Thu–Fri; sleeping at home Wed–Sat).
+- **Week 5 preview:** first tempo touch if wk-4 validations land; fresh flat-terrain trend point wanted (cool conditions).
 
 ## Risk Points Calendar
 
@@ -95,7 +105,7 @@ Riegel off the 2:05:56 half says ~4:15–4:22, but predictors assume marathon vo
   - **Escalation trigger:** two flares within one build week, OR any flare during a long run → drop run volume 30% for a week AND book sports-med MD (urgent-care referral path if needed — an acute presentation books faster than a waitlist).
   - **Volume discipline is the prophylaxis:** no compressing missed runs into fewer bigger runs; a missed session stays missed.
   - **Strength bias:** Tue slot weights toward single-leg control — step-ups, bodyweight split squats, glute work. NO loaded deep single-leg flexion (5/28 bilateral patellofemoral lesson stands).
-  - **Bike-specific caution stands:** the trigger context was cycling. RSVP (Aug 22–23) is the one big bike exposure in the build — if the knee speaks at any point before it, RSVP converts to one-day-only or scratch. Cheap insurance, zero marathon cost.
+  - **Bike-specific caution stands:** the trigger context was cycling. RSVP dropped (wk 2), so the only bike exposure left in the build is the Sunday recovery spin — already run at the proven knee-safe profile (IF ≤0.65, ≥85 rpm).
 - [ ] Stop-discipline as a race skill — 2:40 stopped at STP vs 90-min budget; if a future long event has a cutoff, rehearse timed stops in training, not just riding
-- [ ] RSVP (Aug 22–23) — registered? Confirm entry status; currently planned as wk-4 Z2 maintenance block
+- [X] RSVP (Aug 22–23) — DROPPED wk 2 along with Tour de Whidbey; cycling event season over. Bike = Sunday recovery spins only for the rest of the build.
 - [ ] Shoe rotation — Nimbus 26 at 400+ mi pre-ramp. Start breaking in Nimbus 28 #1 during recovery fortnight; stagger #2
