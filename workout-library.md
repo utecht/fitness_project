@@ -24,11 +24,11 @@ Segments at goal marathon pace (TBD). Used during Phase 3 specific block as segm
 
 ### Strides (ST)
 
-Structured workout step, "4× stride-relax," 25s each (extended from 20s so GPS captures the build), full recovery between. Fired after the easy mileage as its own segment, never embedded. Target cadence 185+, HR ≤155, relaxed-fast not sprint. Neuromuscular, not aerobically taxing.
+Structured workout step, "4× stride-relax," 25s each (extended from 20s so GPS captures the build — validated 8/20/26, all 4 captured), full recovery between. Fired after the easy mileage as its own segment, never embedded. Target cadence 185+, HR ≤155, relaxed-fast not sprint. Neuromuscular, not aerobically taxing. Watch records strides as structured laps — same pipeline the tempo sessions use.
 
-### Long-Run Gel Protocol (debuts wk 4 of marathon build)
+### Long-Run Gel Protocol (validated 8/22/26)
 
-Gel at ~35 / 70 / 105 min, no caffeine, plain water ad lib alongside, no Tailwind on gel days. One variable at a time.
+Gel at ~35 / 70 / 105 min, no caffeine, plain water ad lib alongside, no Tailwind on gel days. One variable at a time. Homemade standard: 150ml flask dosed in thirds at those marks (~33g each ≈ 40 g/hr; recipe in fitness-baseline.md), flask-in-pocket carry. Debut 8/22 = zero GI, energy high throughout. Commercial packets: first trial on a short run Fri 8/28, long-run debut 9/5; tear-open mechanics and rates >50 g/hr still to rehearse.
 
 ### Shakeout
 

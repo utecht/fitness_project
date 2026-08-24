@@ -202,9 +202,9 @@ Trend: +6.4 points over ~16 weeks. Cycling base translated strongly to running f
 - **Practical STP planning target: 80–100 g/hr structured intake** with documented headroom to 120+ g/hr for opportunistic rest-stop top-ups.
 - **Race-validated (STP, 7/11/26, 211 mi / 16.4 hr / 86–89°F):** Tailwind at stops + real food + hourly sodium + hammer gel as early-insurance-only = zero GI issues, zero cramping, +5.3% decoupling, pedaling power −6% over 13.7 hr. This is the reference long-event protocol.
 
-### Homemade Gel (current)
+### Homemade Gel (current — run-validated 8/22/26)
 
-56g maltodextrin + 45g fructose + salt + citric acid = ~101g carbs per gel. Too concentrated for in-race half marathon use without dilution; works at full strength on the bike.
+100g carbs (67g maltodextrin / 33g fructose) + ~0.9g salt (~310–390 mg Na) + ~0.5g citric acid + xanthan to thicken, in a 150ml soft flask. Dosed in thirds at 35/70/105 min ≈ 40 g/hr. Fully validated bike + run: 8/22 long-run debut (2:29) = zero GI, energy high throughout, flask-in-pocket carry works. Thirds (not quarters) is the dosing standard; pre-marking the flask optional. (Earlier bike-only version was 56g malto + 45g fructose at full strength.)
 
 ### Sodium
 
@@ -222,7 +222,8 @@ Trend: +6.4 points over ~16 weeks. Cycling base translated strongly to running f
 ### Long-Run Fueling (running)
 
 - **Tailwind protocol validated again 8/15/26** (2 scoops/50g in one 500ml flask, second flask water, ~22 g/hr): fuel clean, no GI. Hydration is the open failure, not carbs.
-- Gel protocol (35/70/105 min, no caffeine, water only) debuts wk 4 — see workout-library.md.
+- **Gel protocol validated 8/22/26** on the 13.21-mi long run (homemade, see above): ~33g × 3 at 35/70/105 min ≈ 40 g/hr, plain water alongside, zero GI — wk-5/6 fueling target hit on first attempt.
+- Remaining unknowns: commercial packets (first trial Fri 8/28, long-run debut 9/5), tear-open mechanics, rates >50 g/hr (MP rehearsals), Nuun Endurance (course drink).
 
 ## Equipment
 
@@ -232,13 +233,13 @@ Trend: +6.4 points over ~16 weeks. Cycling base translated strongly to running f
 - **Tracking:** Apple Watch Ultra (run + HR), chest HR strap, Wahoo ELEMNT BOLT (cycling, syncs Strava/Zwift/HealthFit).
 - **Watch battery (marathon planning, documented 8/16/26):** Ultra Gen 1 rated ~12h GPS workout; marathon worst case ~5.5h incl. pre-start. Full charge night before; do NOT use Low Power Mode (degrades HR sampling). No dedicated running watch — data suite already complete on Apple Fitness (power, stance, vertical oscillation, real cadence). Third-party recording app rejected 8/11/26 (fake constant cadence, no power).
 - **Analysis tooling:** `hr_by_mile.py` (in repo) — per-mile HR distribution viewer (density + p10/p25/p50/p75/p90, zone bands, editable cap + watch-Z2 ceiling, pace colored fast→slow green→red in OKLCH, per-mile climb/descent bars). Running-only samples (≥1.79 m/s). Usage: `python3 hr_by_mile.py RUN.fit [--cap 145] [--watch 150] [--title ...] [-o out.html]`. Default: generated for every long run; midweek on request. Deps: fitparse, numpy. PDT offset hardcoded.
-- **Running shoes:** Asics Gel-Nimbus 28 #1 (debut 7/20/26, old footbed transferred in; new Road Runner insoles land wk 4). Nimbus 26 retired at ~400+ mi. Nimbus 28 #2 staggered entry pending.
+- **Running shoes:** Asics Gel-Nimbus 28 #1 (debut 7/20/26, old footbed transferred in; Road Runner insole errand slipped to Wed 8/26 — footbed cut for Nimbus 28s, second-pair question at same visit). Nimbus 26 retired at ~400+ mi. Nimbus 28 #2 staggered entry pending.
 - **Saddle status:** Specialized Phenom 143mm under evaluation, not working — alternatives to demo (Specialized Power, Bridge, Romin, or others at Gregg's).
 
 ## Niggle Watch (marathon build)
 
-- **Adductors:** post-long-run tightness/tenderness 8/15–16 after Fri PT (hip/adductor loading) + Sat 12-miler. Load-stacking, not injury. Monitor; PT-to-long-run spacing not raised with PT (8/16 call) — will raise only if it recurs.
-- **Arches:** bilateral during 12-miler (8/15), R-only slight during 4-milers. Load-dependent, consistent with dead factory footbed. Reassess after new insole (wk 4).
+- **Adductors:** recurrence watch effectively CLOSED 8/23 — silent all of wk 4 incl. strides. Passive monitor only. (Origin: post-long-run tightness 8/15–16 after Fri PT hip/adductor loading + Sat 12-miler.)
+- **Feet/arches:** diffusely sore (both, no localization) post-13-mi long run 8/22, resolved <24h — normal tissue response. Still on old insoles (Road Runner → Wed 8/26). Follow-up: one look at R lesser metatarsals (April site) after first run on new insoles (load redistribution).
 
 ## Update Log
 
@@ -247,3 +248,4 @@ Trend: +6.4 points over ~16 weeks. Cycling base translated strongly to running f
 - 2026-05-24 — Major revision through end of STP build week 4. Added: Anatomy/Asymmetries section (LLD finding); Bike Fit section with full dimensional record and history; Cycling HR zones (Wahoo); cadence preference established; weight update (5/20); half marathon result with full detail; Easy Run HR-cap protocol; build-period notable rides through 5/23; Fueling section (gut tolerance, bonk history); Equipment section; refreshed VO₂ max with full Apple Health pull; expanded HR section with HRV, RHR, and walking HR from Apple Health.
 - 2026-07-12 — STP one-day finish added (notable rides, fueling protocol validation). FTP unchanged at 215 (no retest; race data consistent — IF 0.67 all-day sustainable).
 - 2026-08-16 — Marathon-build wk-3 updates: Apple Watch zone offset + alert behavior documented; easy-run cap protocol clarified (alarm-driven, compliance arc); watch battery / recording-app notes and `hr_by_mile.py` added to Equipment; running long-run Tailwind reference added to Fueling; Niggle Watch section (adductors, arches); running-shoe line updated to Nimbus 28.
+- 2026-08-24 — Marathon-build wk-4 updates: homemade gel recipe revised and marked run-validated (8/22 long-run debut, ~40 g/hr, zero GI; thirds-at-35/70/105 standard); long-run fueling unknowns listed (commercial packets, >50 g/hr, Nuun); adductor recurrence watch closed; feet/arches note updated (post-long-run soreness normal, R lesser-metatarsal follow-up queued for new insoles); insole errand moved to 8/26.
