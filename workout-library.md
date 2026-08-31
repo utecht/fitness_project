@@ -78,8 +78,16 @@ Main lift: overhead press or row variation. Accessories: pull-ups/lat pull, push
 
 1 compound per pattern (squat, hinge, push, pull, carry). Lower volume, moderate load. Used in race weeks and peak sport weeks.
 
+### Current Prescriptions (updated 8/31/26)
+
+- **Goblet squat:** ACTIVE (reintroduced 8/24 via BW→30→40 ladder, 3s eccentric, clean). Current working: 40 × 8 × 2, 3s eccentric, depth to parallel. Progression pending PT review 9/2.
+- **Suitcase hold:** replaces farmer carry (space constraint; superior anti-lateral-flexion demand). Current: 52.5 lb × 40s/side × 2. Progression: →45s/side, then march-in-place hold before any load increase (52.5 = DB ceiling).
+- **Single-leg glute bridge:** replaces bilateral. Current: 8/side × 2, RPE 3–4. Progression: →10/side × 2.
+- **Single-arm DB press:** reset to 30 × 8 × 2/side both arms; rebuild. Progress to 35 when set 2 ≤ RPE 6 both sides. L/R logged separately (L deficit watch-list).
+
 ### Guidelines
 
 - Never lift to failure during sport-focused blocks
 - Prioritize movement quality over load
 - Skip strength in any week with >6 hr cycling OR >35 mpw running without explicit plan adjustment
+- **Standing rule (8/31/26): strength sessions never scheduled <24h after the long run** (distorted RPEs demonstrated twice)

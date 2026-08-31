@@ -472,3 +472,33 @@ Next week focus (BUILD wk 2/18, Aug 3–9): Vancouver through Thu (Tue easy 4 + 
   - 4:20 group is plan of record (Green Lake pacers even-effort, confirmed by half experience). Wk-8 checkpoint: 2×3 mi ≤9:55 upper-Z3, drift <5% → commit.
 - **Week summary:** First week of the block with nothing carried forward as a problem. Volume 24.8 (+~20% vs wk-3 actual, +4% vs wk-1, on macro line). Long-run cap compliance jumped 44% → 90% on the back half in two weeks; proactive-pacing (not just proactive-walking) now demonstrated in adverse conditions. Fueling architecture ahead of schedule.
 - **Next week focus (BUILD wk 5/18, Aug 24–30):** 26 mi, long 15, first tempo touch, vest debut candidate.
+
+## Week of 2026-08-24 (Marathon build, week 5/18)
+
+**Theme:** Squat reintroduction test, LTHR emergence, longest run to date. PT ×2 week (last before once-weekly).
+
+### Sessions
+- **Mon 8/24:** Strength — **goblet squat TEST PASSED** (BW/30/40 × 8, 3s eccentric, RPE 4/5/6, no symptoms; full ladder, no stop rules triggered). Session ran hot +1–2 RPE across the board (<24h post-13.2 mi long run): RDL 135×8×2 RPE 7 (was 5–6), row 115×8×2 RPE 7/8, **L press failed 30×6 vs R 35×8@RPE 9** — watch-list item, confounded by fatigue; press resets to 30×8×2/side. Debuts: suitcase hold 52.5 × ~40s/side ×2, symmetric RPE 6–7 (replaces farmer carry); single-leg glute bridge 8/side ×2, symmetric RPE 3–4. Side plank R 33s / L 27s.
+- **Tue 8/25:** Tempo 2×2 mi — **9:55 (HR 151)** / **10:04 (HR 155)**, both in 9:55–10:05 target window. 6.31 mi, 1:06:48, ~507 ft. Rep 1: held pace on 118 ft climb via 251W surge → HR ran to 160s, peak 168 (anti-pattern). **Rep 2: even-effort execution — HR flat 156/155 across halves, pace allowed to drift to 10:08 on grade. Rep 2 is the race-day model** (matches Green Lake pacer even-effort strategy). GAP ~9:40/~9:50 flat-equivalent. **Provisional LTHR: 162–166.** Recovery floats 11:43 @ HR 144–151. Zero data artifacts.
+- **Wed 8/26:** Rest (town errand + PT). Road Runner errand not completed — pivot to online ordering.
+- **Thu 8/27:** Easy 40:10 — 3.48 mi, 11:33/mi, avg HR 138, 78% ≤145, max 164. 291 ft (**84 ft/mi — hilliest easy route of block**). **Zero walk breaks + 10:43 opener despite best recovery morning of week (RHR 50, HRV 84, 9.5h sleep) — freshness-masked-intensity, second occurrence.** Mile 1 avg 135 (opener rule miss).
+- **Fri 8/28:** **PT missed** (alarm mis-set, ferry timing unrecoverable) — missed stays missed. Zwift Z2 not logged.
+- **Sat 8/29:** Rest (planned — full-day commitment). Bedtime protected: 9.4h in bed.
+- **Sun 8/30:** **Long 14.01 mi — longest run to date.** 2:47:28 elapsed / 2:45:33 moving, 11:57/mi, avg HR 139, max 158, 84% ≤145, opener clean (first 2 min @116, mile 1 @130). **Pw:Hr decoupling 4.2% ✓** (Pa:Hr 9.9%, terrain-confounded; power is the honest read). ~1,100–1,400 ft after barometric-noise filtering (~80–100 ft/mi, climbing back-loaded: mi 10–14 all 115–190 ft). Mile 3 = 272 ft net descent @ 10:01 (fastest mile). **Walk breaks reactive again: first at min 88**, 6 total 4:16, big ones (112s/95s) on mile 13 climb. T3 mechanics degraded: stance 272→283 ms, cadence 164→160, VO 9.5→9.9 cm. **R knee painful final miles; feet "very flat" by mile 12** (arch fatigue). Energy held throughout. **Fueling: 100g carbs/150ml flask in quarters @ 35/70/105/140 = 25g/dose, ~43 g/hr — validated to 2:47, no GI.** Vest debut at distance: no issues. Watch calories 1,798.
+
+### Body
+- **R knee:** painful final miles Sunday; **resolved <24h** (steepest-stairs test clean Monday AM). Mechanism: fast eccentric descent mi 3 + back-loaded climbing + T3 gait degradation. Logged as transient load response, not injury event. Goblet squats remain in rotation; episode goes to Wednesday PT review.
+- **Feet:** arch collapse sensation from ~mi 12. High/High static arches (5/21 fit) = low-compliance foot; links to lesser-metatarsal watch item. **Currex RunPro High ordered, arrives ~8/31** — validates on short easy run per protocol; second insole pair + second Nimbus 28 deferred until validated.
+- **L press deficit:** second data point (failed 30×6 vs R 35×8), fatigue-confounded. Watch-list continues; press rebuilt from 30 both sides.
+- **Recovery markers: flag fired.** RHR 54→64→65, HRV 63→49→37 (Fri→Sun) — trend began pre-run Saturday. Monitor into week 6; markers checked before next long run.
+- Calves/quads: normal DOMS Monday, non-painful.
+- Sleep: Mon 8.8h / Tue 6.2h (PT-eve) / Wed 9.5h / Sat 9.4h.
+
+### Learnings / Adjustments
+1. **Freshness-masks-intensity is now a confirmed pattern (3 runs).** Walk-break protocol hardened: on long runs, breaks fire on clock and terrain from the start — **first break no later than minute 20, then every 15–20 min or at each significant climb, regardless of feel.** RPE is least trustworthy when fresh.
+2. **Standing rule: no strength <24h after the long run** (Monday's distorted RPEs are the second demonstration).
+3. **Even-effort on hills validated as race execution model** (tempo rep 2). Instruction for future tempos: ignore pace field on climbs; flat HR = successful rep.
+4. **PT goes once-weekly starting Wed 9/2** — removes the recurring PT-eve sleep deficit (Tue 6.2h this week).
+5. Fueling: quarters dosing validated. **Decision needed before week 8: second flask vs denser mix for 16–18 mi runs (~6 doses).**
+6. Descents are not free — mile-3 pattern (fast early descent → late-run knee) now documented twice (wk4, wk5 routes).
+7. Run volume: **23.8 mi** across 3 runs (schedule-compressed week: Wed/Sat zeroed by errand + commitment; volume is output, not target — all three quality sessions executed).

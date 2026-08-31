@@ -66,7 +66,9 @@ Tertiary: strength 2x/week, drop to 1x/week final 3 weeks.
   - **Aug 1–6: Vancouver vacation, wk 1–2.** Run-only (no bike/strength) — zero-cost, weeks are easy-run-only anyway. Wk 1 long run (~10 mi) done in Vancouver (Stanley Park seawall — flat).
   - ~~**Aug 22–23: RSVP (wk 4).**~~ **DROPPED wk 2 (with Tour de Whidbey — cycling event season over).** Wk 4 reverts to standard structure: Sat 8/22 long run in slot (gel debut).
 - **Weeks 5–8 (Aug 24 – Sep 20):** Base continuation. Long run 15 → 18 mi. Introduce tempo and a little MP work. ~30 mpw. Wk-4 validations landed (gel ✓ on homemade; insoles slipped to 8/26 with a wk-5 variable-split plan) — **wk 5 gets the first tempo touch on time.**
-  - **Wk 8 = marathon target-time checkpoint:** MP segments at ~10:00/mi holding upper-Z3 HR without drift → commit 4:20; costing Z4 → race at 4:30 plan.
+  - **Wk 5 ✅ COMPLETE (8/30):** longest run to date (14.01 mi), Pw:Hr 4.2% at distance ✓, provisional LTHR established (162–166), goblet squats back in rotation. Detail in week-log.
+  - **Wk 6 long run: hold at 14 mi** (no progression — knee-informed conservative call despite <24h resolution).
+  - **Wk 8 = marathon target-time checkpoint:** MP segments at ~10:00/mi holding upper-Z3 HR without drift → commit 4:20; costing Z4 → race at 4:30 plan. **Trajectory as of wk 5: on track** — tempo paces landing in the 9:55–10:05 window on 22–24 ft/mi terrain (GAP comfortably inside target); progression path 2×2 → 2×2.5 → 2×3 over weeks 6–8.
 - **Weeks 9–12 (Sep 21 – Oct 18):** Specific phase. Long run 18 → 22 mi. Extended MP segments inside long runs. ~35 mpw. **No events — protect these weekends; this is where the race is built (keystone-protection rule applies to long runs now).**
 - **Weeks 13–15 (Oct 19 – Nov 8):** Peak. Long run 22 mi, one 22–24 if body allows. ~35–40 mpw.
 - **Weeks 16–18 (Nov 9 – Nov 29):** 3-week taper.
@@ -80,14 +82,16 @@ Riegel off the 2:05:56 half says ~4:15–4:22, but predictors assume marathon vo
 ### In-build decisions & standing rules (running log)
 
 - **Zwift decision (wk 4, called early wk 3):** Maintenance-restart, not pause. Standing slot: Sunday post-long-run recovery spin, 30–45 min, IF ≤0.65, ≥85 rpm. Not 2×/wk yet — run ramp holds that budget. Streak-protected.
-- **Keystone protection extended to PT:** Hard PT sessions (hip/adductor loading) count as load inside the 72h window before the long run. Wed/Fri PT + Sat long run = Fri session must be light or the long run eats it. Not raised with PT for now (8/16 call) — adductors silent all wk 4, recurrence watch closed 8/23; stays unraised on passive monitor. When PT drops to 1×/wk (Sept), schedule it far from the Sat long run (Tue ideal).
+- **Keystone protection extended to PT:** Hard PT sessions (hip/adductor loading) count as load inside the 72h window before the long run. Wed/Fri PT + Sat long run = Fri session must be light or the long run eats it. Not raised with PT for now (8/16 call) — adductors silent all wk 4, recurrence watch closed 8/23; stays unraised on passive monitor. PT drops to 1×/wk **effective Wed 9/2** (Wednesdays — removes the recurring PT-eve sleep deficit).
 - **Long-run logistics rule (new, hard):** Water source physically verified in advance, or car-as-aid-station loop. No trusting fountains. Three consecutive misses (8/2 fine → 8/9 → 8/15) triggered this.
 - **Long-run cap discipline, closing miles:** On descending finishes the target is same HR, not same pace. Negative split at controlled HR is the skill; downhill-assisted negative split with cap abandoned is the anti-pattern (8/15 miles 9–12).
 - **Attrition watch:** counter reset to 0 after 8/15. Two consecutive misses re-arms; three raises Saturday-morning-protection as a formal rule.
 - **Sleep (rule added 8/23):** tracked weekly — line in the weekly wrap, checked in long-run readiness. The lever is bedtime, not the alarm; early starts stay the default as long runs grow (midday-start tolerance demonstrated 8/22 but doesn't scale past ~2.5h).
-- **Fueling standard (8/22):** homemade gel dosed in thirds at 35/70/105 (~40 g/hr) is the long-run baseline; recipe in fitness-baseline.md. Commercial packets: first trial Fri 8/28, long-run debut 9/5.
+- **Fueling standard (8/22, updated 8/31):** homemade gel is the long-run baseline; recipe in fitness-baseline.md. Quarters dosing at 35/70/105/140 (~25g/dose, ~43 g/hr) validated to 2:47 on the wk-5 14-miler. Commercial packet trial slipped (wk-5 Fri lost) — **debut moves to next midweek run slot, week 6.** Decision needed before wk 8: second flask vs denser mix for 16–18 mi runs (~6 doses).
 - **Week 4 (Aug 17–23): ✅ COMPLETE as written** — 24.8 mi + Sun spin, long 13.21, homemade gel debut clean, strides at 25s captured. Only slip: insole errand → Wed 8/26. Detail in week-log.
-- **Week 5 plan (Aug 24–30):** ~26 mi, long 15, first tempo touch, vest debut candidate. Variable split: Thu tempo on old insoles, no gel; Fri easy 3 = new insoles + first commercial packet; Sat long 15 insoles-per-Friday, homemade gels; Sun spin. Road Runner errand Wed 8/26 (footbed cut for Nimbus 28s + second-pair question, no-caffeine gels ×6–8, liner shorts).
+- **Week 5 (Aug 24–30): ✅ COMPLETE** — 23.8 mi across 3 runs (schedule-compressed: Wed/Sat zeroed by errand + commitment) but all three quality sessions executed: tempo debut in window, long 14.01 (longest to date, Pw:Hr 4.2% ✓), goblet squat test passed. Road Runner errand pivoted to online ordering. Detail in week-log.
+- **PT cadence: twice-weekly → once-weekly (Wednesdays) effective 9/2.**
+- **Gear pipeline (8/31):** Currex RunPro High arriving ~8/31 → validate on a short easy run → then order second insole pair + second Nimbus 28. Commercial gel debut: next midweek run slot, week 6.
 
 ## Risk Points Calendar
 
@@ -112,4 +116,5 @@ Riegel off the 2:05:56 half says ~4:15–4:22, but predictors assume marathon vo
   - **Bike-specific caution stands:** the trigger context was cycling. RSVP dropped (wk 2), so the only bike exposure left in the build is the Sunday recovery spin — already run at the proven knee-safe profile (IF ≤0.65, ≥85 rpm).
 - [ ] Stop-discipline as a race skill — 2:40 stopped at STP vs 90-min budget; if a future long event has a cutoff, rehearse timed stops in training, not just riding
 - [X] RSVP (Aug 22–23) — DROPPED wk 2 along with Tour de Whidbey; cycling event season over. Bike = Sunday recovery spins only for the rest of the build.
-- [ ] Shoe rotation — Nimbus 26 at 400+ mi pre-ramp. Start breaking in Nimbus 28 #1 during recovery fortnight; stagger #2
+- [ ] **Homemade gel dosing — land the standard.** Thirds @ 35/70/105 (~40 g/hr, validated 8/22 to 2:29) and quarters @ 35/70/105/140 (~43 g/hr, validated 8/30 to 2:47) both work; the right dosing depends on route — run length and whether a midrun restock (car-loop / kitchen-as-aid-station) is available or the flask must carry the whole run. Folds in the wk-8 flask question (second flask vs denser mix for 16–18 mi runs, ~6 doses). Decide before week 8.
+- [ ] Shoe rotation — Nimbus 28 #1 in service; #2 order gated on Currex RunPro High insole validation (arriving ~8/31, validate short easy run → order second insole pair + Nimbus 28 #2)

@@ -29,6 +29,10 @@ Documented at Gregg's Cycle bike fit, 5/21/26 (fitter: Jono Rodgers).
 
 The LLD is the structural source of the right-side symptom cluster (knee, foot, arm/tricep) documented across the STP build. Currently managed via cleat rotation rather than wedging/shimming. If right-side symptoms recur at higher mileage, next-level intervention is a heel wedge or cleat shim.
 
+| Observation | Finding | Status |
+|---|---|---|
+| Arch behavior under load | Fatigue-collapse sensation from ~mi 12 at 14 mi (8/30/26) | Static High/High; loaded behavior to be confirmed at PT 9/2. Currex RunPro High insole intervention initiated. |
+
 ## Bike Fit
 
 Reference position from Gregg's Cycle fit, 5/21/26. Frame: Raleigh Revino 3.0, size 54. Update in place after any subsequent fit; previous setting in History.
@@ -134,6 +138,9 @@ Working baseline from tempo data 4/16 and half marathon execution 4/26. Refine a
 | Tempo/Z4 | 9:30–9:50/mi | 150–160 bpm; sustainable 20+ min |
 | Half-marathon pace | ~9:34/mi | 153 avg |
 | 5K race | 8:20–8:40/mi | Likely faster on flat |
+| **Provisional LTHR** | **162–166 bpm** | From 8/25 tempo (2×2 mi, sustained 155–156 back-half, non-maximal peak 168). Refine at wk 6–7 tempos; formal zones after wk-8 checkpoint. |
+
+Note: the easy-run HR cap of 145 sits at ~88–90% of provisional LTHR — cap placement validated.
 
 ### Easy Run Protocol (established 5/18/26)
 
@@ -163,7 +170,7 @@ Running cadence consistently 163–168 spm across all efforts; no intervention n
 | HRV (range) | 48–65 ms | Apple Health weekly averages |
 | Walking HR average | ~96 bpm | Apple Health, recovery proxy |
 | Cycling LTHR (estimate) | 155 bpm | Placeholder for Wahoo zones; untested |
-| Running LTHR | TBD | Establish from extended tempo or threshold test |
+| Running LTHR (provisional) | 162–166 bpm | Wk-5 tempo 8/25/26; refine at wk 6–7 tempos, formal zones after wk-8 checkpoint |
 
 Age-predicted max (Tanaka): ~181 bpm. Observed max 186 supersedes. 193 spike on 3/30 ride was adrenaline (chain drop on descent), not a true effort max.
 
@@ -204,7 +211,7 @@ Trend: +6.4 points over ~16 weeks. Cycling base translated strongly to running f
 
 ### Homemade Gel (current — run-validated 8/22/26)
 
-100g carbs (67g maltodextrin / 33g fructose) + ~0.9g salt (~310–390 mg Na) + ~0.5g citric acid + xanthan to thicken, in a 150ml soft flask. Dosed in thirds at 35/70/105 min ≈ 40 g/hr. Fully validated bike + run: 8/22 long-run debut (2:29) = zero GI, energy high throughout, flask-in-pocket carry works. Thirds (not quarters) is the dosing standard; pre-marking the flask optional. (Earlier bike-only version was 56g malto + 45g fructose at full strength.)
+100g carbs (67g maltodextrin / 33g fructose) + ~0.9g salt (~310–390 mg Na) + ~0.5g citric acid + xanthan to thicken, in a 150ml soft flask. Dosed in thirds at 35/70/105 min ≈ 40 g/hr. Fully validated bike + run: 8/22 long-run debut (2:29) = zero GI, energy high throughout, flask-in-pocket carry works. Dosing: thirds @ 35/70/105 (validated 8/22) and quarters @ 35/70/105/140 (validated 8/30 to 2:47) both clean — final standard TBD, route/restock-dependent (open item in macro-plan.md, decide before wk 8). Pre-marking the flask optional. (Earlier bike-only version was 56g malto + 45g fructose at full strength.)
 
 ### Sodium
 
@@ -249,3 +256,4 @@ Trend: +6.4 points over ~16 weeks. Cycling base translated strongly to running f
 - 2026-07-12 — STP one-day finish added (notable rides, fueling protocol validation). FTP unchanged at 215 (no retest; race data consistent — IF 0.67 all-day sustainable).
 - 2026-08-16 — Marathon-build wk-3 updates: Apple Watch zone offset + alert behavior documented; easy-run cap protocol clarified (alarm-driven, compliance arc); watch battery / recording-app notes and `hr_by_mile.py` added to Equipment; running long-run Tailwind reference added to Fueling; Niggle Watch section (adductors, arches); running-shoe line updated to Nimbus 28.
 - 2026-08-24 — Marathon-build wk-4 updates: homemade gel recipe revised and marked run-validated (8/22 long-run debut, ~40 g/hr, zero GI; thirds-at-35/70/105 standard); long-run fueling unknowns listed (commercial packets, >50 g/hr, Nuun); adductor recurrence watch closed; feet/arches note updated (post-long-run soreness normal, R lesser-metatarsal follow-up queued for new insoles); insole errand moved to 8/26.
+- 2026-08-31 — Marathon-build wk-5 updates: provisional running LTHR 162–166 added (8/25 tempo), Heart Rate table updated; easy-run cap 145 noted at ~88–90% of provisional LTHR (cap placement validated); arch-behavior-under-load note added to Anatomy (fatigue collapse from ~mi 12 on the 8/30 14-miler; Currex RunPro High intervention initiated, PT loaded-assessment 9/2).
