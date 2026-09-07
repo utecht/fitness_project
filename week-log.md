@@ -502,3 +502,42 @@ Next week focus (BUILD wk 2/18, Aug 3–9): Vancouver through Thu (Tue easy 4 + 
 5. Fueling: quarters dosing validated. **Decision needed before week 8: second flask vs denser mix for 16–18 mi runs (~6 doses).**
 6. Descents are not free — mile-3 pattern (fast early descent → late-run knee) now documented twice (wk4, wk5 routes).
 7. Run volume: **23.8 mi** across 3 runs (schedule-compressed week: Wed/Sat zeroed by errand + commitment; volume is output, not target — all three quality sessions executed).
+
+## Week of 2026-08-31 (Marathon build, week 6/18)
+
+**Theme:** Managed-load week. First once-weekly PT. Bilateral knee flare mid-week traced to a tempo/PT/short-sleep stack. Insoles and commercial gel both validated at easy load.
+
+### Sessions
+- **Mon 8/31:** Zwift recovery spin 26 min, NP 132 W, IF 0.58, TSS 15, HR 122 avg. Intensity clean; cadence 81 avg (half the ride under the 85 rpm floor), short of the 30-min minimum.
+- **Tue 9/1:** Tempo 2×2.5 mi — **9:24 (HR 154, max 160)** / **9:11 (HR 160.5, max 168)**. 7.53 mi, 1:14:51, Burke-Gilman (Lake Forest Park), flat, 5:45 pm start. **New Currex insoles in (against plan — Thursday debut was scheduled).** Rep 1 textbook HR-anchored: pace floated 9:15→9:33→9:24, HR flat 155. Rep 2 breached the 160 cap for the middle mile (8:55/9:05 half-miles at HR 162–164; 6:32 above 162, 33 s above 166), then corrected to 9:17–9:19 @ 160–161 with no fade. Drift: rep 1 internal −3.3%, rep 2 −2.3%, rep 1→2 −1.8% Pw:Hr — at equal HR the reps are identical. Float recovery 154→142 in 60 s. Cadence flat 167–169; rep 2 speed came from stance (239→225 ms) and stride, not turnover. CD cut to 0.5 mi. Feet "feeling it" at turnaround (~min 35), no escalation. Subjective: rep 2 "felt very easy despite the pace."
+- **Wed 9/2:** PT #1 once-weekly (bike, functional movement circuit, monster walks, hip rolling, fire hydrants, Spanish squat holds 4×30"). Sarah marked seven exercises for home integration (see workout-library). **Home strength cancelled** — both knees very sore from afternoon onward. [BACKFILL: any PT notes on load/knee from the session.]
+- **Thu 9/3:** Full rest. Both knees still sore — second consecutive flagged day.
+- **Fri 9/4:** Easy 2.57 mi / 30:16 @ 11:47, HR 128 avg / 143 max, 23 s >140, 0 s >145, +108 ft, 11:35 am. Insoles in. First run post-flare: knees clean, mechanics normal (cadence 165, stance 278, HR flat 126→129→130 across miles). No GU (run too short). Ran 30 min vs 20 prescribed.
+- **Sat 9/5:** Rest (booked). Knees "mostly back to normal."
+- **Sun 9/6:** Long 10.03 mi / 2:01:51 moving @ 11:57 running-only, HR 131 avg / 144 max, **0 s >145**, +571 ft, 6:16 pm start. Reduced from 14 per conditional protocol. **Pa:Hr +5.4% (negative split, terrain-assisted — miles 2–5 carried the climbing at 12:30 @ 132–135, miles 6–10 ran 11:23–11:50 @ 127–132).** Mile 1 opened 123. Stance tightened 298 ms (mi 3) → 266 ms (mi 9). Walk breaks at 26 min (79 s) and 76 min (56 s) — first break 6 min late vs rule, none in final 46 min. **Fueling: one commercial GU at 30 min, then nothing** (~11 g/hr vs 43 g/hr protocol) — subjective fade by the end, zero data fade. Commercial gel: no GI over 2 h. Knees clean during and after. Clean-conditions trend point (cool, rested, walk breaks taken).
+
+### Body
+- **Knees — bilateral flare, Wed afternoon → Thu.** Onset ~20 h after tempo, hours after PT. Attribution: threshold-level effort (rep 2 above cap) at 6–7 pm → PT-eve short sleep → PT session with plyo-adjacent circuit + Spanish squat holds, all inside ~20 h. Insoles are a secondary suspect (first hard run on them) — cannot be separated from the stack. Resolved: Fri run clean, Sat mostly normal, Sun 10 mi clean. Sarah is monitoring both knees.
+- **Feet/insoles:** Currex RunPro High now validated at easy load (2.57 + 10.03 mi clean). Tempo-load read still confounded by the Tuesday stack — next tempo is the read. R lesser-metatarsal site: no complaints across three runs on new insoles — follow-up closed.
+- **L press deficit:** not read this week (strength cancelled). Watch-list continues; next clean read is wk 7 Tuesday.
+- **RHR/HRV:** [BACKFILL — check whether the wk-5 flag (RHR 65 / HRV 37 on Sun 8/30) normalized before Tue 9/1.]
+- **Sleep:** [BACKFILL from sleepAnalysis — Tue 9/1 (PT-eve, post-7 pm run) and Sun 9/6 (8:20 pm finish) are the nights of interest; include baseline.]
+
+### Learnings / Adjustments
+1. **Tempo/PT stack is a named anti-pattern.** Late-day tempo → short PT-eve sleep → PT the next morning, inside ~20 h, produced a bilateral knee response. Structural fix: tempo and PT two days apart, tempo in a daytime slot. Preferred sequence when the weekend is open: Tue strength / Wed PT / Thu tempo / Sun long.
+2. **The 160 tempo cap and the 72 h keystone window are distinct protections.** The cap governs intensity of the session; the window governs what sits near the long run. Breaching the cap on a Tuesday didn't threaten the long run — it threatened Wednesday.
+3. **Flat-ground tempo data reads ~30–45 s/mi faster than Whidbey at equal HR.** Tue 9/1 clears the wk-8 pace bar (≤9:55) trivially on flat. If Seattle tempos are repeatable, re-cut the bar to ~≤9:25 at the same HR window; otherwise the checkpoint runs on the island against 9:55. **Decision pending.**
+4. **Provisional LTHR 162–166 is probably at its upper end** (a mile at 163–164 that "felt easy"). Don't move it yet — wk-8 checkpoint or a 30-min test earns the change.
+5. **Commercial GU: validated for GI at 2 h.** Correct schedule is one packet per 30–35 min (≈ quarter-dose equivalent). The error on 9/6 was stopping at one, not the packet. A 2-h run at long-run HR tolerates ~11 g/hr with no data fade; a 16-mi run will not.
+6. **Walk-break rule enforcement:** first break landed at min 26 (rule: ≤20). Data said fine at 10 mi; rule stands at 14+.
+7. **Recovery-spin cadence floor is the knee-relevant part of that protocol** — 81 avg is a miss even with IF compliant.
+8. **Missed sessions stayed missed:** Wed strength and the 14-mi long run were not made up. Volume 20.1 mi (7.53 / 2.57 / 10.03) vs 27 planned.
+
+### Decisions / carried forward
+- Second Currex pair + Nimbus 28 #2: **cleared to order** (validation complete at easy load).
+- Wk 7 long run **holds at 14** (not 15). Wk 8 checkpoint stays on for Sep 15–20, contingent on wk-7 tempo executing under the cap with no knee response.
+- Before wk 8: second flask vs denser mix — partially reframed; if commercial packets prove out, 16–18 mi runs can go hybrid (flask + packets).
+- Triple Threat needs a Swiss ball — confirm or substitute sliders. Flag substitution to Sarah.
+- Limber note to Sarah about the bilateral flare: [BACKFILL — sent Y/N].
+
+- **Next week focus (BUILD wk 7/18, Sep 7–13):** ~28 mi. Weekend open → Tue strength (revised session, clean L-press read) / Wed PT / Thu tempo 2×2.5 with cap enforced, daytime / Fri easy + activation / Sun long 14 early start, homemade gel at 35/70/105/140, walk breaks on clock from min 20. Tempo location decision (Whidbey vs Seattle) sets the checkpoint bar.

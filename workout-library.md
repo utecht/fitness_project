@@ -14,9 +14,13 @@ Conversational pace. HR capped to 145 via watch monitor. Nose-breathing sustaina
 
 Continuous easy effort. Start conservative, OK to drift toward upper Z2 in the final third. Practice fueling if >75 min. Carry water on Whidbey hills.
 
+Commercial-gel long runs: one packet per 30–35 min, not one packet total. Walk breaks: first ≤ minute 20 on clock. Conditional-reduction protocol (used 9/6): two clean days required behind the full distance; one clean day → reduced distance; any knee noise → Zwift Z2 90 min.
+
 ### Tempo (T)
 
 15–25 min at comfortably-hard / half-marathon effort. HR upper Z3 / lower Z4. Warm-up 10 min easy, cool-down 10 min easy.
+
+Cap 160 is binding on every rep, including when RPE says easy. Rep structure: HR anchors, pace is the output. Lap each rep on the watch. Daytime slot; never the day before PT. Flat-venue (Seattle) reads ~30–45 s/mi faster than Whidbey at equal HR — record venue with every tempo.
 
 ### Marathon Pace (MP)
 
@@ -38,7 +42,7 @@ Gel at ~35 / 70 / 105 min, no caffeine, plain water ad lib alongside, no Tailwin
 
 ### Sunday Recovery Spin (Zwift)
 
-30–45 min, Z1/low Z2, IF ≤0.65, ≥85 rpm. Standing post-long-run slot during the marathon build. Reference session: 8/16/26 — 105W avg, 93% Z1, TSS 13.
+30–45 min, Z1/low Z2, IF ≤0.65, **≥85 rpm (the knee-relevant constraint — 8/31 spin averaged 81 and counts as a miss)**, standing Sunday/Monday post-long-run slot during the marathon build. Reference session: 8/16/26 — 105W avg, 93% Z1, TSS 13.
 
 ### Zwift Z2 Endurance
 
@@ -78,12 +82,35 @@ Main lift: overhead press or row variation. Accessories: pull-ups/lat pull, push
 
 1 compound per pattern (squat, hinge, push, pull, carry). Lower volume, moderate load. Used in race weeks and peak sport weeks.
 
-### Current Prescriptions (updated 8/31/26)
+### Weekly Strength Session (revised 9/7/26 — PT-integrated, ~50 min)
 
-- **Goblet squat:** ACTIVE (reintroduced 8/24 via BW→30→40 ladder, 3s eccentric, clean). Current working: 40 × 8 × 2, 3s eccentric, depth to parallel. Progression pending PT review 9/2.
-- **Suitcase hold:** replaces farmer carry (space constraint; superior anti-lateral-flexion demand). Current: 52.5 lb × 40s/side × 2. Progression: →45s/side, then march-in-place hold before any load increase (52.5 = DB ceiling).
-- **Single-leg glute bridge:** replaces bilateral. Current: 8/side × 2, RPE 3–4. Progression: →10/side × 2.
-- **Single-arm DB press:** reset to 30 × 8 × 2/side both arms; rebuild. Progress to 35 when set 2 ≤ RPE 6 both sides. L/R logged separately (L deficit watch-list).
+| Block | Exercise | Sets × Reps | Notes |
+|---|---|---|---|
+| Warm-up | Goblet squat ladder | BW / 30 / 40 × 8 | 3s eccentric; stop rules unchanged |
+| Main | Goblet squat working sets | as current (40 × 8 × 2, 3s eccentric, to parallel) | |
+| Main | RDL | as current (135×8×2 last read) | |
+| Main | Row | as current (115×8×2 last read) | |
+| Main | Press | 30 × 8 × 2 / side | L-side deficit watch — next clean read wk 7 Tue |
+| PT | SL Hip Thrust | 3 × 12 @ 20# | **replaces** single-leg glute bridge |
+| PT | Lateral Step-Down Hold | 4 × 20" green band | 12" step or plate stack |
+| PT | FFE Calf Raise from deficit | 3 × 10 @ 20# | front foot elevated, full range |
+| PT | Triple Threat | 2 × 10 | Swiss ball: bridge → curl → bridge-curl-bridge. **Sub: sliders/towel hamstring curl if no ball — confirm with Sarah** |
+| Core | Side planks | as current (R 33s / L 27s last read) | |
+| Core | Suitcase hold | 52.5 × ~40s / side × 2 | |
+
+Placement: Tuesday slot when the weekend is open (Tue strength / Wed PT / Thu tempo / Sun long). Never <24 h post-long-run. Cancelled if a knee is flagged that day — not rescheduled.
+
+Progression notes (carried from 8/31): suitcase hold → 45s/side, then march-in-place hold before any load increase (52.5 = DB ceiling). Press → 35 when set 2 ≤ RPE 6 both sides; L/R logged separately.
+
+### Pre-Run Activation Block (added 9/7/26 — Sarah's low-load three)
+
+Run before easy runs, 2×/week (typically Thu + Fri, or whichever easy days fall after PT). ~8–10 min. Not a keystone-window concern.
+
+- Hip Rolling × 15
+- Fire Hydrants 3 × 10, blue band
+- Copenhagen 4 × 20"
+
+PT (Wed) covers the same block — don't repeat it that day.
 
 ### Guidelines
 

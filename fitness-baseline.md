@@ -138,7 +138,8 @@ Working baseline from tempo data 4/16 and half marathon execution 4/26. Refine a
 | Tempo/Z4 | 9:30–9:50/mi | 150–160 bpm; sustainable 20+ min |
 | Half-marathon pace | ~9:34/mi | 153 avg |
 | 5K race | 8:20–8:40/mi | Likely faster on flat |
-| **Provisional LTHR** | **162–166 bpm** | From 8/25 tempo (2×2 mi, sustained 155–156 back-half, non-maximal peak 168). Refine at wk 6–7 tempos; formal zones after wk-8 checkpoint. |
+| **Provisional LTHR** | **162–166 bpm** | From 8/25 tempo (2×2 mi, 155–156 sustained) and 9/1 tempo (2×2.5 flat: rep 2 held 162–164 for a mile, "felt easy," no fade). Likely at the upper end of 162–166. Hold until wk-8 checkpoint or a 30-min test. |
+| **Tempo pace, flat** | **9:10–9:25/mi** | 155–160 bpm (9/1 Burke-Gilman). Whidbey-equivalent ~9:45–10:05 at same HR. Use venue-specific bars. |
 
 Note: the easy-run HR cap of 145 sits at ~88–90% of provisional LTHR — cap placement validated.
 
@@ -147,6 +148,8 @@ Note: the easy-run HR cap of 145 sits at ~88–90% of provisional LTHR — cap p
 **HR cap 145 bpm via Apple Watch alarm — binding constraint, not pace.** Easy runs start near-embarrassingly slow (mile 1 target HR <130). Pace will defer to terrain to defend the HR cap; this is correct behavior. Three pre-method runs drifted from easy → steady-tempo (5/6, 5/10, 5/15); first two post-method runs (5/18, 5/20) executed cleanly with 77–79% in Z2-HR. Method also produces a clean pace-at-fixed-HR fitness signal over time.
 
 **Protocol clarified 8/16/26 — alarm-driven, not display-driven.** Two responses only: alarm on a climb → shuffle rule; alarm on flat → ease off. Short 10–40s terrain grazes to 148–150 with clean return = compliant. Strict compliance retained on long runs only. Compliance arc: 40% → 79% → 90% → 97% (May → Aug).
+
+Long-run walk-break rule (hardened wk 5): first break ≤ minute 20, then every 15–20 min or each significant climb, on clock — wk 6 first break landed at 26 min on a 10-miler; enforce at 14+.
 
 ### Apple Watch Zone Offset & Alerts (documented 8/16/26)
 
@@ -179,6 +182,7 @@ Age-predicted max (Tanaka): ~181 bpm. Observed max 186 supersedes. 193 spike on 
 - HRV dip to 48.2 ms in week of 4/29 = post-half marathon + STP build kickoff (week 1 of build was the biggest training-load week of the year). Adaptation pattern, not concerning.
 - Strong rebound to 64.6 ms week of 5/6, then settling around 54–55 ms. Indicates recovery capacity is intact.
 - RHR low point of 55.4 bpm also week of 5/6 — same recovery bounce.
+- [BACKFILL wk 6] Sleep line and RHR/HRV read pending phone query — note whether the wk-5 flag (RHR 65 / HRV 37 on Sun 8/30) normalized before Tue 9/1.
 
 ## Cardio Fitness (VO₂ max, Apple Watch estimate)
 
@@ -230,7 +234,8 @@ Trend: +6.4 points over ~16 weeks. Cycling base translated strongly to running f
 
 - **Tailwind protocol validated again 8/15/26** (2 scoops/50g in one 500ml flask, second flask water, ~22 g/hr): fuel clean, no GI. Hydration is the open failure, not carbs.
 - **Gel protocol validated 8/22/26** on the 13.21-mi long run (homemade, see above): ~33g × 3 at 35/70/105 min ≈ 40 g/hr, plain water alongside, zero GI — wk-5/6 fueling target hit on first attempt.
-- Remaining unknowns: commercial packets (first trial Fri 8/28, long-run debut 9/5), tear-open mechanics, rates >50 g/hr (MP rehearsals), Nuun Endurance (course drink).
+- **Commercial gel (GU Original, caffeine-free): GI-validated 9/6** — one packet at 30 min, no GI over 2 h. Schedule: one packet per 30–35 min ≈ quarter-dose equivalent (~22 g). Order: 24-pack covers wks 8/12/15 rehearsals + race day (8 in belt). Seattle Marathon on-course gel support is thin/unreliable (one station, reported empty in 2023) — self-supply confirmed as plan.
+- Remaining unknowns: >50 g/hr (MP rehearsals), Nuun Endurance (course drink), hybrid flask + packets for 16–18 mi.
 
 ## Equipment
 
@@ -239,14 +244,15 @@ Trend: +6.4 points over ~16 weeks. Cycling base translated strongly to running f
 - **Strength:** Full free-weight setup, power rack, adjustable dumbbells.
 - **Tracking:** Apple Watch Ultra (run + HR), chest HR strap, Wahoo ELEMNT BOLT (cycling, syncs Strava/Zwift/HealthFit).
 - **Watch battery (marathon planning, documented 8/16/26):** Ultra Gen 1 rated ~12h GPS workout; marathon worst case ~5.5h incl. pre-start. Full charge night before; do NOT use Low Power Mode (degrades HR sampling). No dedicated running watch — data suite already complete on Apple Fitness (power, stance, vertical oscillation, real cadence). Third-party recording app rejected 8/11/26 (fake constant cadence, no power).
-- **Analysis tooling:** `hr_by_mile.py` (in repo) — per-mile HR distribution viewer (density + p10/p25/p50/p75/p90, zone bands, editable cap + watch-Z2 ceiling, pace colored fast→slow green→red in OKLCH, per-mile climb/descent bars). Running-only samples (≥1.79 m/s). Usage: `python3 hr_by_mile.py RUN.fit [--cap 145] [--watch 150] [--title ...] [-o out.html]`. Default: generated for every long run; midweek on request. Deps: fitparse, numpy. PDT offset hardcoded.
-- **Running shoes:** Asics Gel-Nimbus 28 #1 (debut 7/20/26, old footbed transferred in; Road Runner insole errand slipped to Wed 8/26 — footbed cut for Nimbus 28s, second-pair question at same visit). Nimbus 26 retired at ~400+ mi. Nimbus 28 #2 staggered entry pending.
+- **Analysis tooling:** `hr_by_mile.py` (in repo) — per-mile HR distribution viewer (density + p10/p25/p50/p75/p90, zone bands, editable cap + watch-Z2 ceiling, pace colored fast→slow green→red in OKLCH, per-mile climb/descent bars). Running-only samples (≥1.79 m/s). Usage: `python3 hr_by_mile.py RUN.fit [--cap 145] [--watch 150] [--title ...] [-o out.html]`. Default: generated for every long run; midweek on request. Deps: fitparse, numpy. PDT offset hardcoded. Wk-6 long run (10 mi, 9/6) chart not generated — optional backfill.
+- **Running shoes:** Asics Gel-Nimbus 28 #1 (debut 7/20/26) with **Currex RunPro High insoles (in 9/1/26; validated at easy load 9/4 + 9/6 — 12.6 mi clean; tempo-load read pending, 9/1 tempo confounded by knee stack).** Nimbus 26 retired ~400+ mi. **Nimbus 28 #2 and second Currex pair: cleared to order 9/7.**
 - **Saddle status:** Specialized Phenom 143mm under evaluation, not working — alternatives to demo (Specialized Power, Bridge, Romin, or others at Gregg's).
 
 ## Niggle Watch (marathon build)
 
 - **Adductors:** recurrence watch effectively CLOSED 8/23 — silent all of wk 4 incl. strides. Passive monitor only. (Origin: post-long-run tightness 8/15–16 after Fri PT hip/adductor loading + Sat 12-miler.)
-- **Feet/arches:** diffusely sore (both, no localization) post-13-mi long run 8/22, resolved <24h — normal tissue response. Still on old insoles (Road Runner → Wed 8/26). Follow-up: one look at R lesser metatarsals (April site) after first run on new insoles (load redistribution).
+- **Feet/arches:** Currex RunPro High in from 9/1. R lesser-metatarsal follow-up CLOSED 9/6 — no complaints across three runs on new insoles (tempo, easy, 10-mi long). Mild "feeling it" at 9/1 tempo turnaround, no recurrence.
+- **Knees (bilateral):** flare Wed 9/2 afternoon → Thu 9/3, resolved by Fri 9/4 run (clean) and Sun 9/6 10-mi (clean). Cause: threshold-level tempo (rep 2 above cap, 6–7 pm) + PT-eve short sleep + PT session inside ~20 h. Insoles secondary suspect, unseparable. Prior: R knee late-run 8/30 (14-mi, resolved <24 h); L knee is the PT chart diagnosis (Mar onset). Sarah monitoring both. Rules in force: 24 h awareness rule, hard-stop on sharp/building signal, no strength <24 h post-long-run, tempo/PT stack anti-pattern.
 
 ## Update Log
 
@@ -257,3 +263,4 @@ Trend: +6.4 points over ~16 weeks. Cycling base translated strongly to running f
 - 2026-08-16 — Marathon-build wk-3 updates: Apple Watch zone offset + alert behavior documented; easy-run cap protocol clarified (alarm-driven, compliance arc); watch battery / recording-app notes and `hr_by_mile.py` added to Equipment; running long-run Tailwind reference added to Fueling; Niggle Watch section (adductors, arches); running-shoe line updated to Nimbus 28.
 - 2026-08-24 — Marathon-build wk-4 updates: homemade gel recipe revised and marked run-validated (8/22 long-run debut, ~40 g/hr, zero GI; thirds-at-35/70/105 standard); long-run fueling unknowns listed (commercial packets, >50 g/hr, Nuun); adductor recurrence watch closed; feet/arches note updated (post-long-run soreness normal, R lesser-metatarsal follow-up queued for new insoles); insole errand moved to 8/26.
 - 2026-08-31 — Marathon-build wk-5 updates: provisional running LTHR 162–166 added (8/25 tempo), Heart Rate table updated; easy-run cap 145 noted at ~88–90% of provisional LTHR (cap placement validated); arch-behavior-under-load note added to Anatomy (fatigue collapse from ~mi 12 on the 8/30 14-miler; Currex RunPro High intervention initiated, PT loaded-assessment 9/2).
+- 2026-09-07 — Marathon-build wk-6 updates: provisional LTHR note refined (upper end of 162–166); flat-venue tempo pace row added; commercial GU moved to validated (GI at 2 h, 30–35 min schedule); Currex RunPro High validated at easy load, shoe line updated, second pair + Nimbus 28 #2 cleared; R metatarsal follow-up closed; Knees entry added to Niggle Watch (bilateral 9/2–9/3 flare, cause attributed); long-run walk-break rule restated. [Sleep/RHR/HRV backfill pending.]
