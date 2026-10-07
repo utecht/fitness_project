@@ -1,6 +1,6 @@
 # Weekly Training Log
 
-Append one entry per week, newest at bottom. 3–5 lines per week. This is the primary place prior weeks get remembered across chats.
+Append one entry per week, newest at bottom. 3–5 lines per week. This is the primary place prior weeks get remembered across chats. Precision is nice-to-have: approximate figures are fine, and gaps are marked `[not recorded]` rather than chased (see Working preferences in macro-plan.md).
 
 ---
 
@@ -510,7 +510,7 @@ Next week focus (BUILD wk 2/18, Aug 3–9): Vancouver through Thu (Tue easy 4 + 
 ### Sessions
 - **Mon 8/31:** Zwift recovery spin 26 min, NP 132 W, IF 0.58, TSS 15, HR 122 avg. Intensity clean; cadence 81 avg (half the ride under the 85 rpm floor), short of the 30-min minimum.
 - **Tue 9/1:** Tempo 2×2.5 mi — **9:24 (HR 154, max 160)** / **9:11 (HR 160.5, max 168)**. 7.53 mi, 1:14:51, Burke-Gilman (Lake Forest Park), flat, 5:45 pm start. **New Currex insoles in (against plan — Thursday debut was scheduled).** Rep 1 textbook HR-anchored: pace floated 9:15→9:33→9:24, HR flat 155. Rep 2 breached the 160 cap for the middle mile (8:55/9:05 half-miles at HR 162–164; 6:32 above 162, 33 s above 166), then corrected to 9:17–9:19 @ 160–161 with no fade. Drift: rep 1 internal −3.3%, rep 2 −2.3%, rep 1→2 −1.8% Pw:Hr — at equal HR the reps are identical. Float recovery 154→142 in 60 s. Cadence flat 167–169; rep 2 speed came from stance (239→225 ms) and stride, not turnover. CD cut to 0.5 mi. Feet "feeling it" at turnaround (~min 35), no escalation. Subjective: rep 2 "felt very easy despite the pace."
-- **Wed 9/2:** PT #1 once-weekly (bike, functional movement circuit, monster walks, hip rolling, fire hydrants, Spanish squat holds 4×30"). Sarah marked seven exercises for home integration (see workout-library). **Home strength cancelled** — both knees very sore from afternoon onward. [BACKFILL: any PT notes on load/knee from the session.]
+- **Wed 9/2:** PT #1 once-weekly (bike, functional movement circuit, monster walks, hip rolling, fire hydrants, Spanish squat holds 4×30"). Sarah marked seven exercises for home integration (see workout-library). **Home strength cancelled** — both knees very sore from afternoon onward. [not recorded: any PT notes on load/knee from the session]
 - **Thu 9/3:** Full rest. Both knees still sore — second consecutive flagged day.
 - **Fri 9/4:** Easy 2.57 mi / 30:16 @ 11:47, HR 128 avg / 143 max, 23 s >140, 0 s >145, +108 ft, 11:35 am. Insoles in. First run post-flare: knees clean, mechanics normal (cadence 165, stance 278, HR flat 126→129→130 across miles). No GU (run too short). Ran 30 min vs 20 prescribed.
 - **Sat 9/5:** Rest (booked). Knees "mostly back to normal."
@@ -520,8 +520,8 @@ Next week focus (BUILD wk 2/18, Aug 3–9): Vancouver through Thu (Tue easy 4 + 
 - **Knees — bilateral flare, Wed afternoon → Thu.** Onset ~20 h after tempo, hours after PT. Attribution: threshold-level effort (rep 2 above cap) at 6–7 pm → PT-eve short sleep → PT session with plyo-adjacent circuit + Spanish squat holds, all inside ~20 h. Insoles are a secondary suspect (first hard run on them) — cannot be separated from the stack. Resolved: Fri run clean, Sat mostly normal, Sun 10 mi clean. Sarah is monitoring both knees.
 - **Feet/insoles:** Currex RunPro High now validated at easy load (2.57 + 10.03 mi clean). Tempo-load read still confounded by the Tuesday stack — next tempo is the read. R lesser-metatarsal site: no complaints across three runs on new insoles — follow-up closed.
 - **L press deficit:** not read this week (strength cancelled). Watch-list continues; next clean read is wk 7 Tuesday.
-- **RHR/HRV:** [BACKFILL — check whether the wk-5 flag (RHR 65 / HRV 37 on Sun 8/30) normalized before Tue 9/1.]
-- **Sleep:** [BACKFILL from sleepAnalysis — Tue 9/1 (PT-eve, post-7 pm run) and Sun 9/6 (8:20 pm finish) are the nights of interest; include baseline.]
+- **RHR/HRV (backfilled 10/6):** wk-5 flag (65 / 32 on 8/30) normalized by 8/31 (57 / 53). 9/6 61 / 50.
+- **Sleep (partially backfilled 10/6):** Sat 9/5 6h48 (bed 12:57 am, pre-long-run); Sun 9/6 8h48 (bed 12:21, up 10:32, deep 108 / REM 127). [not recorded: Tue 9/1 (PT-eve, post-7 pm run)]
 
 ### Learnings / Adjustments
 1. **Tempo/PT stack is a named anti-pattern.** Late-day tempo → short PT-eve sleep → PT the next morning, inside ~20 h, produced a bilateral knee response. Structural fix: tempo and PT two days apart, tempo in a daytime slot. Preferred sequence when the weekend is open: Tue strength / Wed PT / Thu tempo / Sun long.
@@ -538,6 +538,90 @@ Next week focus (BUILD wk 2/18, Aug 3–9): Vancouver through Thu (Tue easy 4 + 
 - Wk 7 long run **holds at 14** (not 15). Wk 8 checkpoint stays on for Sep 15–20, contingent on wk-7 tempo executing under the cap with no knee response.
 - Before wk 8: second flask vs denser mix — partially reframed; if commercial packets prove out, 16–18 mi runs can go hybrid (flask + packets).
 - Triple Threat needs a Swiss ball — confirm or substitute sliders. Flag substitution to Sarah.
-- Limber note to Sarah about the bilateral flare: [BACKFILL — sent Y/N].
+- Limber note to Sarah about the bilateral flare: [not recorded: sent Y/N].
 
 - **Next week focus (BUILD wk 7/18, Sep 7–13):** ~28 mi. Weekend open → Tue strength (revised session, clean L-press read) / Wed PT / Thu tempo 2×2.5 with cap enforced, daytime / Fri easy + activation / Sun long 14 early start, homemade gel at 35/70/105/140, walk breaks on clock from min 20. Tempo location decision (Whidbey vs Seattle) sets the checkpoint bar.
+
+## Week of 2026-09-07 (Marathon build, week 7/18) — DISRUPTED
+
+> **Data note (10/7):** figures in weeks 7–11 were reconstructed after the fact from watch/HealthFit exports in a separate chat — treat individual numbers (times, HR, scores, sleep) as approximate. Gaps are marked `[not recorded]` and aren't being chased.
+
+**Theme:** Restart after the wk-6 flare → tempo at threshold → right-knee event ends the long run. Insole A/B resolved. Watch HR zones fixed.
+
+### Sessions
+- **Mon 9/7:** Strength — reduced-volume session (~23 h after Sun 10 mi), **cut short after press** (general fatigue, "weak the whole time"). Goblet ladder BW/30/40 × 6, RPE 5/6/7, **right knee aware at 40 rung**, clean on working sets; goblet 40×6×2 RPE 5/5; RDL 135×6×2 RPE 5/5; row 115×6×2 **RPE 8/8** (ceiling breach); press: **30 failed at 4 reps** [not recorded: L only or both sides] → dropped to 20×8×2/side, L RPE 7/6, R 5/6. PT block, side plank, suitcase hold not done. Read: both upper lifts flat → systemic fatigue, not a clean L/R read. <24 h post-long-run rule confirmed a third time.
+- **Tue 9/8:** Easy 4.07 mi / 47:21 @ 11:19 running-only, HR 132 avg / 145 max, **0 s >145**, +256 ft, 5:48 pm, 72°F. Splits 11:28 / 10:58 / 11:17 / 11:32; mile 1 opened 122. Cadence 164, stance 281, power 211 W. One 62 s stop at min 19. Knees clean — 24 h read from Mon ladder awareness cleared. Not a trend point.
+- **Wed 9/9:** PT (Sarah). Recovery spin **not done**.
+- **Thu 9/10:** Tempo 2×2.5 — 7.01 mi / 1:11:19, HR 151 avg / 171 max, +443 ft, 2:29 pm, 70°F. WU 1.0 @ 11:40 (124). **Rep 1 9:43 @ 156, 22% >160** (climbs only). Float 0.5 @ 12:04 (148). **Rep 2 9:30 @ 162, 63% >160, 79% of flat running above cap — threshold rep, protocol failure.** Pa:Hr r1→r2 +1.0%; rep 2 halves 161→162 at a faster second half → **LTHR ≥162 inferred.** Longest stretch >160: 3:26; 2:00 ≥165. Cadence 168, stance 237. **Knees clean during and 24 h after.** Pace bar (≤9:55 Whidbey) cleared with margin; HR bar failed. Root cause: watch Zone 4 alarm (auto HRR zones, Z4 floor ~160) fired *below* the zone whenever Joseph sat correctly in 152–158 — the alarm coached upward. Right arch 5/10 around mi 2–3.
+- **Fri 9/11:** Easy 3.22 mi / 35:11 @ 10:42 running-only, HR 134 / 150, 147 s >145 (**93% compliance** — mile 3 at 139 avg with 126 s over on +90/−99 ft), +227 ft, 5:42 pm, 64°F. Cadence 167, stance 266, power 220 — firmer than Tue. **Insole A/B run: old Nimbus 28 (149 mi) + stock insoles from new pair. Right arch 2/10.** Knees clean (closes Thu 24 h read).
+- **Sat 9/12:** Rest.
+- **Sun 9/13:** Long run **cut at 9.95 mi / 1:58:23 timer** (planned 14). 2:01 pm start (not the planned 7 am), HR 136 avg / 151 max, **97.2% ≤145**, +480 ft, 11:37 running-only, cadence 165, stance 269, power 199. **Right knee: slightly sharp twinges mi 2–3 on an off-road descent** (cadence 162, stance 276–278 — longest of the run), quiet on return to road. **Mi 9.5–10, sustained road descent (~60 ft over 6 min at 10:22–10:56, HR 133–136): sharp twinges building; stopped ~2 min; sharp pain on first steps resuming → ended run, walked home.** Step length on the final descent 897 mm vs 840 run average (overstriding downhill at compliant HR). Pa:Hr −5.1%; miles 7–9 held 134–136 at 11:26–11:37. Mile 1 opened 133 (rule miss). Walk breaks skipped after min 33. **Fueling: 3 commercial GU on schedule (30/60/90), ~40 g/hr, GI clean, energy fine. Arches both feet, peak 2–3/10 at mi 5, resolved — stock insoles win.**
+
+### Body
+- **Knee log:** Sun 9/13 pm — 3/10 aching at rest, 4–5/10 stairs. Mon 9/14 am — aware in bed, 1 rest, 2 stairs (guarded). Tue 9/15 — 0–1 stairs unguarded, quiet at rest. 48 h recovery profile, same as wk 6.
+- **Arches:** Currex RunPro High implicated (5/10 under Currex at tempo → 2/10 stock at easy → 2–3/10 stock over 10 mi). **Currex retired; second pair not ordered.** Second Nimbus 28 pair arrived 9/11; stock insoles swapped into the old pair for the A/B.
+- **L press deficit:** still unread — confounded by fatigue again (row also RPE 8). Proposed standalone 10-min press test, fresh, no leg loading. Not yet done.
+- **Sleep (wk 6/7 backfill):** Sat 9/5 6h48 (bed 12:57 am, pre-long-run); Sun 9/6 8h48 (bed 12:21, up 10:32, deep 108 / REM 127); Mon 9/7 7h34 (bed 12:22). All bedtimes past midnight. Mon strength "weak" not reflected in readiness (RHR 55 / HRV 64 that morning) → attributed to <24 h post-long-run alone.
+- **RHR/HRV backfill:** 8/30 flag (65 / 32) normalized by 8/31 (57 / 53). 9/6 61 / 50, 9/7 55 / 64, 9/8 53 / 59.
+
+### Learnings / Adjustments
+1. **Apple Watch zone alarm was actively harmful at tempo.** Auto HRR zones put Z4's floor at ~160; a Zone 4 target alarm fired on the *low* side every time HR was correctly in 152–158. Fixed 9/10 — see fitness-baseline.
+2. **"Same HR, not same pace" on descents protects the heart, not the knee.** Sunday's final descent was fully cap-compliant and still ended the run. Descent rule rewritten (see macro-plan).
+3. **Off-road descents are a separate load class** — cadence 162 / stance 278 vs 165–167 / 265 on road. Not for long runs until the knee is cleared for descents at all.
+4. **Reps cut ~20% for fatigue doesn't rescue a session <24 h after a long run.** The rule is 24 h; "lighter" doesn't buy it back.
+5. **The press read cannot live inside the leg session.** Three confounded attempts. Standalone test or drop the question.
+6. **Insole A/B worked as designed** (one variable, three runs, pain scored 0–10). Pain scoring 0–10 is now standard for every niggle.
+7. **Volume:** 24.3 mi run (4.07 / 7.01 / 3.22 / 9.95); 0 bike. Planned ~28.
+
+### Decisions / carried forward
+- Wk 8 checkpoint on hold → PT Wed 9/16 decides.
+- No running before 9/16. Loaded PT exercises (step-down holds, Spanish squats, anything knee-flexion-under-load) paused; hip activation block continues.
+- Knee scored 0–10 four times daily (first steps, stairs down, stairs up, standing after 30 min sitting).
+- Zwift custom workout with explicit cadence target needed — Zwift's intensity rating ignores torque.
+
+## Week of 2026-09-14 (Marathon build, week 8/18) — DISRUPTED
+
+**Theme:** Sarah clears a flat-ground rebuild + cardio shift to bike; checkpoint attempt becomes a tolerance run; new-shoe debut ends on a hip→knee symptom. Second consecutive long run lost.
+
+### Sessions
+- **Mon 9/14:** Rest. Knee 1/10 rest, 2/10 stairs (guarded).
+- **Tue 9/15:** Knee 0–1 unguarded. Zwift 32:06 — **NP 174 W / IF 0.77 / TSS 31**, HR 139 avg / 166 max, cadence 86 avg but **min 15–30 at 184–193 W @ 79–83 rpm** (below the 85 floor), 16% HR Z4. Intended as recovery; Zwift "2/5 intensity" label hid a sweet-spot block. Pain-free. Logged as PT-eve loading.
+- **Wed 9/16:** PT (Sarah). Full knee timeline handed over (see fitness-baseline Niggle Watch). **Outcome: OK to keep building miles, preferably on flats; stop on any sharp pain; shift a good amount of cardio to cycling.** Tests for specific injuries negative.
+- **Thu 9/17:** Steady run, **cut at half** — 4.40 mi / 47:02, HR 141 avg / 158 max, **0 s ≥160**, +207 ft, 2:29 pm, 70°F. WU 1.0 @ 11:26 (125); 3.0 mi @ 10:27, HR 145 avg (below the 152–158 band; ~8 min in 149–156), three walk stops of 39–60 s at grade changes; CD 0.4. Cadence 168–172 incl. descents, stance 273 → 237. **Knees and arches silent — 4 days post-event, with descents.** "Felt off" last mile. Sleep Tue 5h55 (bed 11:24, up 5:35 for PT), Wed 7h05 (bed 1:16 am); RHR 58 / HRV 52 vs 54 / 70 Mon. Not a checkpoint; checkpoint slides.
+- **Fri 9/18:** [not recorded: Zwift Z2 60 planned; done Y/N]
+- **Sat 9/19:** Easy run **stopped at 2.72 mi / 28:54** — **new Nimbus 28 debut** (stock insoles). **Right hip → knee tingling pain from ~2.0 mi, worsened over next 0.5 mi; stopped.** Uneven stride from 1.5 mi (cadence 160–163, stance 286–290, step length −10%); then pushed on at 9:33–10:20 / HR 146–153 with stance 254–268, VO 100 mm — gait changed under load. Stance-time variability in mi 3 >2× mi 1. Run was not easy: opened 8:47, mile 1 10:01 @ 137, 80% cap compliance, 6:13 pm, 63°F. Two variables changed (new shoes + effort). Arches fine.
+- **Sun 9/20:** Long 12 (flat) **cancelled.**
+
+### Body
+- **Right leg, 3 run-ending events in 3 weeks, escalating in kind:** descent-triggered knee pain (9/13) → hip-to-knee tingling on a flat-ish easy run (9/19). Tingling along a line = nerve-quality symptom, different from the aching/sharp knee pain. Location detail [not recorded: front-outside / lateral hip point / deep buttock; skin sensation normal Y/N; waist belt worn Y/N].
+- Knee silent on the bike and in PT throughout.
+
+### Learnings / Adjustments
+1. **Sarah's 9/16 clearance skipped the return-to-run gate.** "Keep building, on flats" went straight to an 8-mile tempo and a 12-mile long run. The ladder needs short clean runs before any long run — 20 → 30 → 45 min.
+2. **New shoes debut on a run that was not easy = two variables.** The one-variable rule applies to effort as much as gear.
+3. **Zwift intensity ratings do not encode cadence/torque.** Build custom workouts with a cadence target; free-ride at a fixed 90 rpm otherwise.
+4. **The knee has been the symptom; the hip may be the cause.** Uneven stride at 1.5 mi preceded the symptom; descents, the uneven stride, and the wk-6 bilateral flare after squat holds all fit poor hip control of the leg. Question for Sarah, not a diagnosis.
+5. **Volume:** 7.1 mi run (4.40 / 2.72); Zwift 32 min + [not recorded: Fri]. Planned 20–23 run + 2 bike.
+
+### Decisions / carried forward
+- No running pending Sarah (9/23). New shoes back in the box until there's a clean run to test them on.
+- Ladder loses wk 8 → 22-mi peak off the table.
+- **4:20 target retired** (see macro-plan).
+
+## Weeks of 2026-09-21 and 2026-09-28 (Marathon build, weeks 9–10/18) — REST BLOCK
+
+- ~2 weeks almost entirely rest: light jogs and indoor cycling only, "to keep the legs moving." [not recorded: list sessions from HealthFit — dates, durations, any knee/hip notes]
+- **PT Wed 9/23 and Wed 9/30 (Sarah):** tests for specific injuries all negative; no lesion pinpointed. Home PT exercises continue at the appointments with increasing weights. Knees have had **no problems after any bike ride or PT session.** [not recorded: specific tests done; current PT exercise list + loads]
+- Hip→knee tingling from 9/19: [not recorded: when it resolved; any recurrence]
+- Sleep / RHR / HRV over the block: [not recorded]
+
+## Week of 2026-10-05 (Marathon build, week 11/18) — in progress
+
+- **Sun 10/4 (counted here as the return run):** Long run — 10.31 mi / 2:08:32 timer (~1:58 running, ~10 min stopped), HR 136 avg / 164 max, **85.8% ≤145**, +453 / **−604 ft**, 11:33 running-only, 1:42 pm, 64°F. First real run after the rest block. **Pain-free during; stride even mi 4–7** (lowest gait variability in the file). **Mi 3: 259-ft descent at cadence 159 / stance 313 — the 9/13 descent profile.** Mi 8–10: HR 145–146, 6 min >145 in mi 9, stops 23 / 86 / 207 / 222 s, gait variability doubled — legs ran out before the heart did. Pa:Hr +5.5% (cool day → aerobic cost of 2 wks off). Cadence 163 / stance 290 vs 165–168 / 265–280 in Sep (detrained, not injured). **Right knee: some pain shortly after stopping → flared badly that evening, walking and stairs painful and difficult [not recorded: score /10] → gone by Mon am.** Dose (10 mi after 2 wks off) and descent (mi 3) confounded.
+- **Mon 10/5:** Knee clear by morning. Rest.
+- **Tue 10/6:** Indoor cycling, relatively intense, short. Knee silent. [not recorded: .fit summary]
+
+**Working read (10/6):** negative special tests + loaded strength progressing + hard bike sessions clean + knee reacts only to running, only above a dose, mostly on descents, with a ~12 h lag and resolution inside 24 h → **run-specific impact/braking load tolerance below the dose being asked. Not structural.** More or heavier PT exercises are not the unlock; dose-controlled flat running is.
+- **Wed 10/7:** PT (Sarah) — talked through current pain and risk. **Her read: aching after running, even a day later, is fine as long as we aren't pushing through sharp pain.**
+
+**Direction change (10/7):** back to pushing the miles to find the current limit. Goal is the full marathon, running the whole way — a slow jog and ~5:00 beats planned walking; no switch to the half. If sharp knee pain stops it at mile 18, stop and come back next season (STP posture). Hard cardio moves to Zwift (streak intact) to spare impact from pace. Work is busy → less structured weeks, adapted on the fly. See macro-plan.

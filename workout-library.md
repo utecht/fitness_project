@@ -14,9 +14,17 @@ Conversational pace. HR capped to 145 via watch monitor. Nose-breathing sustaina
 
 Continuous easy effort. Start conservative, OK to drift toward upper Z2 in the final third. Practice fueling if >75 min. Carry water on Whidbey hills.
 
-Commercial-gel long runs: one packet per 30–35 min, not one packet total. Walk breaks: first ≤ minute 20 on clock. Conditional-reduction protocol (used 9/6): two clean days required behind the full distance; one clean day → reduced distance; any knee noise → Zwift Z2 90 min.
+Commercial-gel long runs: one packet per 30 min (validated to 2 h, 9/13), not one packet total; 5 packets for 12–14 mi. Walk breaks: first ≤ minute 20 on clock. Conditional-reduction protocol (used 9/6): two clean days required behind the full distance; one clean day → reduced distance; any knee noise → Zwift Z2 90 min.
+
+### Long Run — Push Template (10/7, wks 11–15)
+
+Continuous running, no planned walk breaks — race format is run the whole way, so rehearse it. Easy jog effort, HR cap 145 with Zone 2 alarm (shuffle, don't walk, to defend it), mile 1 <130. Flattest practical route; short stride + cadence up on descents; no off-road descents. Gels every 30 min. **Stop on sharp knee pain; aching is expected and run through** (Sarah 10/7). Log: distance, aching vs sharp + onset mile, next-morning status. Next week's distance climbs if the last one ended aching-not-sharp.
+
+*Superseded 10/6 flat-rebuild template:* run-walk 4:1/5:1, walk every descent, evening-after ≤2 / next-morning 0 gate.
 
 ### Tempo (T)
+
+**Retired on foot (10/7) — hard cardio moved to Zwift** (Sweet Spot / Threshold sessions below) to spare impact from pace. If reinstated: Zone 3 alarm, top edge binding, flattest ground.
 
 15–25 min at comfortably-hard / half-marathon effort. HR upper Z3 / lower Z4. Warm-up 10 min easy, cool-down 10 min easy.
 
@@ -24,7 +32,7 @@ Cap 160 is binding on every rep, including when RPE says easy. Rep structure: HR
 
 ### Marathon Pace (MP)
 
-Segments at goal marathon pace (TBD). Used during Phase 3 specific block as segments inside long runs (e.g., "16 mi with last 6 at MP").
+*Parked 10/6 with the time goal.* Segments at goal marathon pace (TBD). Used during Phase 3 specific block as segments inside long runs (e.g., "16 mi with last 6 at MP").
 
 ### Strides (ST)
 
@@ -42,11 +50,15 @@ Gel at ~35 / 70 / 105 min, no caffeine, plain water ad lib alongside, no Tailwin
 
 ### Sunday Recovery Spin (Zwift)
 
-30–45 min, Z1/low Z2, IF ≤0.65, **≥85 rpm (the knee-relevant constraint — 8/31 spin averaged 81 and counts as a miss)**, standing Sunday/Monday post-long-run slot during the marathon build. Reference session: 8/16/26 — 105W avg, 93% Z1, TSS 13.
+30–45 min, Z1/low Z2, IF ≤0.65, **≥85 rpm (the knee-relevant constraint — 8/31 spin averaged 81 and counts as a miss)**, standing Sunday/Monday post-long-run slot during the marathon build. Reference session: 8/16/26 — 105W avg, 93% Z1, TSS 13. **Custom workout with cadence target only (9/15)** — no Zwift-catalog workouts in this slot.
 
-### Zwift Z2 Endurance
+### Zwift Z2 Endurance (rewritten 10/6)
 
-Steady Z2 (127–170W), flat or rolling route. 60–180 min. Two-bottle fueling if >90 min. Cadence target >= 85.
+Custom workout, 60–90 min, 140–160 W steady (IF 0.60–0.70, NP ≤160), **cadence target 85–95 rpm set in the workout**, HR ≤145. No free-ride "2/5" workouts for this slot — Zwift's intensity rating ignores torque (9/15: a "2/5" label hid a sweet-spot block at 79–83 rpm). Two-bottle fueling if >90 min. Stop on any knee signal.
+
+### Hard Zwift (10/7)
+
+Where running intensity now lives. Use Sweet Spot 2×20 or Threshold 2×15 below (or shorter variants when time is tight), built as custom workouts with cadence ≥85. Not within ~24 h before the long run.
 
 ### Sweet Spot 2×20
 
@@ -90,17 +102,27 @@ Main lift: overhead press or row variation. Accessories: pull-ups/lat pull, push
 | Main | Goblet squat working sets | as current (40 × 8 × 2, 3s eccentric, to parallel) | |
 | Main | RDL | as current (135×8×2 last read) | |
 | Main | Row | as current (115×8×2 last read) | |
-| Main | Press | 30 × 8 × 2 / side | L-side deficit watch — next clean read wk 7 Tue |
+| ~~Main~~ | ~~Press~~ | — | **Moved out permanently (9/7)** → Standalone Press Test |
 | PT | SL Hip Thrust | 3 × 12 @ 20# | **replaces** single-leg glute bridge |
-| PT | Lateral Step-Down Hold | 4 × 20" green band | 12" step or plate stack |
+| PT | Lateral Step-Down Hold | 4 × 20" green band | 12" step or plate stack. **Paused 9/13; resume only per Sarah's current prescription** [not recorded: current PT list + loads] |
 | PT | FFE Calf Raise from deficit | 3 × 10 @ 20# | front foot elevated, full range |
 | PT | Triple Threat | 2 × 10 | Swiss ball: bridge → curl → bridge-curl-bridge. **Sub: sliders/towel hamstring curl if no ball — confirm with Sarah** |
 | Core | Side planks | as current (R 33s / L 27s last read) | |
 | Core | Suitcase hold | 52.5 × ~40s / side × 2 | |
 
+**Reduced-rep variant (×6) is not a substitute for the 24 h rule** (9/7). Spanish squat holds: same rule as step-down holds — per Sarah only.
+
 Placement: Tuesday slot when the weekend is open (Tue strength / Wed PT / Thu tempo / Sun long). Never <24 h post-long-run. Cancelled if a knee is flagged that day — not rescheduled.
 
 Progression notes (carried from 8/31): suitcase hold → 45s/side, then march-in-place hold before any load increase (52.5 = DB ceiling). Press → 35 when set 2 ≤ RPE 6 both sides; L/R logged separately.
+
+### Standalone Press Test (added 10/6)
+
+Friday AM, fresh, no leg loading that day. 30 lb × 8 × 2 per side, L then R, RPE logged per side. Pass = L completes 8/8 both sets at RPE ≤7. ~10 min. Replaces the in-session press read (three confounded attempts).
+
+### Strength Tracker Artifact
+
+`strength_2026-09-07.html` (produced 9/7, not in repo): per-set reps/RPE steppers, knee clean/aware/sharp chips with a stop banner, builds the week-log line. Reusable template — strip the date-specific prescription.
 
 ### Pre-Run Activation Block (added 9/7/26 — Sarah's low-load three)
 
